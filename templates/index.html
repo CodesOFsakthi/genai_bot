@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>PEC BOT</title>
+    <style>
+      /* Basic styling for the chatbot interface */
+      body {
+        font-family: poppins;
+        font-size: large;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+        background-color: #f0f0f0;
+      }
+
+      #logo {
+        cursor: pointer;
+        font-size: 2.5em;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+      }
+      #chat-container {
+        position: fixed;
+        bottom: 80px;
+        right: 20px;
+        width: 400px;
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+        display: none;
+        opacity: 0;
+        transform: scale(0.8);
+        transition: transform 0.3s ease, opacity 0.3s ease;
+      }
+      #chat-container.active {
+        display: block;
+        opacity: 1;
+        transform: scale(1);
+      }
+
+
+      #chat-box {
+        height: 400px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+        padding: 10px;
+        background: #f5f5ef;
+        border-radius: 5px;
+        margin-bottom: 15px;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      /* Style for chat messages */
+      .chat-message {
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+      }
+
+      .bot-message,
+      .user-message {
+        background-color: #e1f5fe;
+        padding: 10px;
+        border-radius: 10px;
+        max-width: 80%;
+      }
+
+      .user-message {
+        align-self: flex-end;
+        background-color: #dcedc8;
+      }
+
+      /* Style for input container */
+      #input-container {
+        display: flex;
+        margin-top: 15px;
+        align-items: center;
+      }
+
+      #user-input {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      /* Style for send and mic buttons */
+      /* Style for send and mic buttons */
+      #send-btn,
+      #mic-btn {
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+        background-color: #4a90e2;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin-left: 5px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.1s, transform 0.1s ease; /* Add smooth transition for transform */
+        transform: scale(1); /* Ensure it stays at original size */
+      }
+      #send-btn:active,
+      #mic-btn:active {
+        background-color: #003366;
+        transform: scale(1); /* Override any shrinking */
+      }
+      #mic-btn i,
+      #send-btn svg {
+        width: 24px; /* Ensure icon size consistency */
+        height: 24px;
+        transition: none; /* Disable any transform scaling on the icon itself */
+      }
+
+      button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+      button:hover {
+      background-color: #0056b3;
+      }
+
+
+
+      footer {
+        margin-top: 15px;
+        text-align: center;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div id="logo" onclick="toggleChatbot()">🤖</div>
+    <div id="listening-status"></div>
+
+    <!-- Chatbot container -->
+    <div id="chat-container">
+      <h1 class="text-center pb-4">
+        <strong>PEC BOT</strong>
+      </h1>
+    
+      <div id="chat-box"></div>
+      <!-- Chat box to display messages -->
+      <div id="input-container">
+        <input type="text" id="user-input" placeholder="Type your message..." />
+        <!-- Input field for user messages -->
+        <button id="send-btn">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M21 12l-18 9 4.5-9L3 3l18 9z"
+            />
+          </svg>
+        </button>
+        <!-- Send button -->
+        <div id="wave-animation" class="wave-container">
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+        </div>
+      
+        <button id="mic-btn">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M12 18.75v2.25m0 0h3m-3 0H9M12 15.75a4.5 4.5 0 004.5-4.5V6a4.5 4.5 0 00-9 0v5.25a4.5 4.5 0 004.5 4.5z"
+            />
+          </svg>
+        </button>
+        <!-- Mic button -->
+        
+      </div>
+      <footer>Powered by AI&DS Department</footer>
+    </div>
+
+
+  </body>
+
+  <script>
+      // Get references to DOM elements
+      const chatBox = document.getElementById("chat-box");
+      const userInput = document.getElementById("user-input");
+      const sendBtn = document.getElementById("send-btn");
+      const micBtn = document.getElementById("mic-btn");
+      const listeningStatus = document.getElementById("listening-status");
+
+
+      function toggleChatbot() {
+            const chatbot = document.getElementById('chat-container');
+            chatbot.classList.toggle('active');
+      }
+
+      // Flag to track if it's the first interaction
+      let isFirstInteraction = true;
+
+      // Function to append messages to the chat box
+      function appendMessage(content, sender) {
+        const messageDiv = document.createElement("div");
+        messageDiv.classList.add(
+          "chat-message",
+          sender === "bot" ? "bot-message" : "user-message"
+        );
+        messageDiv.textContent = content;
+        chatBox.appendChild(messageDiv);
+        chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to the bottom
+        setTimeout(() => {
+          messageDiv.style.opacity = 1; // Smooth transition
+        }, 10); // Small delay for smooth fade-in effect
+      }
+
+      // Function to send user input to the backend
+      function sendMessage(message = null) {
+        const userMessage = message || userInput.value.trim(); // Get and trim the user input
+        if (userMessage) {
+          appendMessage(userMessage, "user"); // Display the user's message in the chat box
+          userInput.value = ""; // Clear input field
+
+          const customPrompt = "You are interacting with the Panimalar Bot.";
+          const payload = {
+              message: customPrompt + " " + userMessage,
+          };
+
+          // Send the message to the Flask backend via POST request
+          fetch("/process", {
+              method: "POST",
+              headers: {
+                  "Content-Type": "application/json",
+              },
+              body: JSON.stringify(payload), // Send the message with custom context
+          })
+          .then((response) => response.json())
+          .then((data) => {
+              console.log("Received data:", data);
+              if (data.reply) {
+                  appendMessage(data.reply, "bot"); // Display the bot's reply
+                  setTimeout(() => {
+                      speakText(data.reply); // Trigger voice reply after a short delay
+                  }, 500);
+
+                // Check if there's a PDF URL to open
+                  if (data.pdf_url) {
+                    // Attempt to open the URL in a new tab after the bot's reply
+                      setTimeout(() => {
+                          window.open(data.pdf_url, "_blank");
+                      }, 1000); // Delay for better UX
+                  }
+              } else {
+                  console.error("Invalid PDF URL:", data.pdf_url);
+              }
+          })
+          .catch((error) => {
+              appendMessage("Sorry, something went wrong!", "bot");
+              console.error("Error during fetch:", error);
+          });
+        } 
+      }
+
+      // Function to speak the bot's response
+      function speakText(text) {
+        // Clear any ongoing speech synthesis
+        if (window.speechSynthesis.speaking) {
+          console.log("Speech synthesis already running. Cancelling it.");window.speechSynthesis.cancel();
+        }
+
+        const speech = new SpeechSynthesisUtterance(text);
+        speech.lang = "en-US";
+        speech.onend = () => {
+          console.log("Speech synthesis finished.");
+        };
+        speech.onerror = (event) => {
+          console.error("Speech synthesis error:", event.error);
+        };
+        window.speechSynthesis.speak(speech);
+      }
+
+      // Function to send a default message (only on first interaction)
+      function sendDefaultMessage() {
+        if (isFirstInteraction) {
+          const defaultMessage =
+            "Greetings,You've just activated PEC BOT. I'm here to turn your questions into discoveries. How can i assist you?";
+          appendMessage(defaultMessage, "bot"); // Display the default message from the bot
+          isFirstInteraction = false; // Mark as interacted
+        }
+      }
+
+      // Add event listener to the send button
+      sendBtn.addEventListener("click", () => sendMessage());
+
+      // Add event listener for pressing "Enter" to send a message
+      userInput.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+          sendMessage();
+        }
+      });
+
+      // Voice input handling
+      micBtn.addEventListener("click", function () {
+        // Start the listening effect
+        micBtn.classList.add("mic-listening"); // Add the class to start the effect
+
+        // Show "Listening..." placeholder after a delay
+        setTimeout(() => {
+          appendMessage("Listening...", "user");
+        }, 2500); // Shorter delay for better user experience
+
+        fetch("/voice_input")
+          .then((response) => response.json())
+          .then((data) => {
+            // Stop the listening effect
+            micBtn.classList.remove("mic-listening"); // Remove the class to stop the effect
+
+            // Clear "Listening..." placeholder
+            const listeningMessage = document.querySelector(
+              ".user-message:last-child"
+            );
+            if (listeningMessage) {
+              listeningMessage.remove();
+            }
+
+            if (
+              data.user_input &&
+              data.user_input !== "Sorry, I didn't catch that."
+            ) {
+              appendMessage(data.user_input, "user"); // Display recognized text immediately
+            } else {
+              appendMessage("Sorry, I didn't catch that.", "bot"); // Handle cases where recognition fails
+            }
+
+            // Now trigger bot reply and voice response
+            setTimeout(() => {
+              if (data.reply) {
+                appendMessage(data.reply, "bot"); // Display bot's reply
+                speakText(data.reply); // Trigger voice reply
+              }
+              if(data.pdf_url){
+                window.open(data.pdf_url, "_blank");
+              }
+            }, 500); // Optional delay for smoother transition
+          })
+          .catch((error) => {
+            micBtn.classList.remove("mic-listening"); // Ensure class is removed in case of error
+            appendMessage("Sorry, something went wrong!", "bot");
+          });
+      });
+      
+
+      // Call the function to send the default message on page load
+      window.onload = sendDefaultMessage;
+</script>
+
+
+  </body>
+</html>
