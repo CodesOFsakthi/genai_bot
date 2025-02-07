@@ -136,6 +136,8 @@ def send_to_gemini(input_text):
         "i will mention what are the things present in the home page and give you the subset keywords also.this is the about us page of pec keyword:About Panimalar,under this it has Leadership which has all this keyword inside it:Management Team,Principal,Governing Body,Objectives,Journey So far and under management team there are 4 members here is the keyword for that 4 of them:Dr. P. Chinnadurai M.A Ph.D ,Dr. C. Sakthi Kumar M.E. Ph.D,Mrs. C. Vijayarajeswari,Dr. Saranya Sree Sakthi Kumar B.E. MBA. Ph.D",
 
         " if asked about who is joshi or about aids second year incharge, give response as this: Dr.A.Joshi is the professor of ai&ds department,also the incharge of second years in ai&ds"
+        "see i want you to give the link along with the keyword like its the link for home,"
+
         
     ]
     context.append(f"User: {input_text}")

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panimalar College Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/3.2.12/leaflet-routing-machine.min.js"></script>
+    <style>
+        #map { height: 900px; width: 100%; }
+    </style>
+</head>
+<body>
+    <h2>Panimalar College Navigation</h2>
+    <label for="source">Source:</label>
+    <select id="source">
+        <option value="13.04870377560546,80.07519564034887">Placement Cell</option>
+        <option value="13.049020818392096,80.0754864596096">Admin Block</option>
+        <option value="13.051089575922814,80.07448623699234">Mess</option>
+        <option value="13.052019775498016,80.0760472825917">Library</option>
+        <option value="13.049600204129447, 80.07690022508207">AI&DS Block</option>
+    </select>
+    
+    <label for="destination">Destination:</label>
+    <select id="destination">
+        <option value="13.04870377560546,80.07519564034887">Placement Cell</option>
+        <option value="13.049020818392096,80.0754864596096">Admin Block</option>
+        <option value="13.051089575922814,80.07448623699234">Mess</option>
+        <option value="13.052019775498016,80.0760472825917">Library</option>
+        <option value="13.049600204129447, 80.07690022508207">AI&DS Block</option>
+    </select>
+    
+    <button onclick="calculateRoute()">Show Route</button>
+    
+    <div id="map"></div>
+
+    <script>
+        // Initialize map with restricted view inside Panimalar College
+        var bounds = L.latLngBounds([
+            [13.057981, 80.07070], // Top-left
+            [13.04714, 80.07191]  // Bottom-left
+        ]);
+
+        var map = L.map('map', {
+            center: [13.0520, 80.0750],
+            zoom: 17,
+            maxBounds: bounds,
+            maxBoundsViscosity: 1.0,
+            zoomControl: true,
+            dragging: true,
+            scrollWheelZoom: true,
+            doubleClickZoom: true,
+            touchZoom: true
+        });
+
+        // Add OpenStreetMap tiles but hide everything outside the boundary
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors',
+            opacity: 0.9 // Almost hidden outside area
+        }).addTo(map);
+
+        // Draw polygon boundary around Panimalar College
+        var collegeBoundary = L.polygon([
+            [13.057981, 80.07070],
+            [13.05781, 80.07835],
+            [13.04792, 80.08039],
+            [13.04714, 80.07191]
+        ], {
+            color: "blue",
+            fillColor: "#add8e6",
+            fillOpacity: 0.1
+        }).addTo(map);
+
+        // Add predefined locations inside the college
+        var locations = {
+            "Placement Cell": [13.04870377560546, 80.07519564034887],
+            "Admin Block": [13.049020818392096, 80.0754864596096],
+            "Mess": [13.051089575922814, 80.07448623699234],
+            "Library": [13.052019775498016, 80.0760472825917],
+            "AI&DS Block":[13.049600204129447, 80.07690022508207]
+        };
+
+        var markers = {};
+        Object.entries(locations).forEach(([name, coords]) => {
+            markers[name] = L.marker(coords).addTo(map).bindPopup(name);
+        });
+
+        // Define waypoints for custom routing
+        var waypoints = {
+            "Placement Cell": [13.04870377560546, 80.07519564034887],
+            "Admin Block": [13.049020818392096, 80.0754864596096],
+            "Mess": [13.051089575922814, 80.07448623699234],
+            "Library": [13.052019775498016, 80.0760472825917],
+            "AI&DS Block":[13.049600204129447, 80.07690022508207]
+        };
+
+        // Function to calculate and display a highlighted walking path
+        function calculateRoute() {
+            var src = document.getElementById("source").value.split(',').map(Number);
+            var dest = document.getElementById("destination").value.split(',').map(Number);
+            
+            // Remove previous route
+            if (window.routingControl) {
+                map.removeControl(window.routingControl);
+            }
+
+            // Add new route with footpath style
+            window.routingControl = L.Routing.control({
+                waypoints: [
+                    L.latLng(src[0], src[1]),
+                    L.latLng(dest[0], dest[1])
+                ],
+                routeWhileDragging: false,
+                createMarker: function() { return null; }, // Hide default markers
+                lineOptions: {
+                    styles: [{ color: 'red', weight: 4, dashArray: '5, 10' }] // Highlight path
+                }
+            }).addTo(map);
+        }
+    </script>
+</body>
+</html>
