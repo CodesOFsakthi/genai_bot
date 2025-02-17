@@ -1,0 +1,5 @@
+pip install Flask
+pip install SpeechRecognition
+pip install google-generativeai
+pip install python-dotenv
+pip install pyttsx3
