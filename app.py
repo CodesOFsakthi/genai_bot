@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import pyttsx3
 import logging
+import re
 
 # Load environment variables
 load_dotenv()
@@ -180,8 +181,7 @@ def process():
             print(f"Error during Gemini API call: {e}")
             reply = "Sorry, something went wrong while processing your request."
 
-    # Return the response with the reply and PDF URL
-    response_data = {"reply": reply, "pdf_url": pdf_url}
+    response_data = {"user_input": user_input,"reply": reply, "pdf_url": pdf_url}
     return jsonify(response_data)
 
 
