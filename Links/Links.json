@@ -1,8 +1,7 @@
 {"Home" :{
     "Page":" https://panimalar.ac.in/index.php ",
 	"About Us":{ 
-        "About Panimalar" : " https://panimalar.ac.in/about-us.php "
-        ,
+        "About Panimalar" : " https://panimalar.ac.in/about-us.php ",
         "Leadership":{
             "Management Team":{ 
             "Page":" https://panimalar.ac.in/management-team.php ",
@@ -10,19 +9,19 @@
                 "Dr. C. Sakthi Kumar, M.E., Ph.D": " https://panimalar.ac.in/dr-c-sakthikumar.php ",
                 "Mrs. C. Vijayarajeswari": " https://panimalar.ac.in/mrs-c-vijayarajeswari.php ",
                 "Dr. Saranya Sree Sakthi Kumar, B.E., MBA., Ph.D": " https://panimalar.ac.in/dr-saranya-sree-sakthikumar.php "
-            },
+                },
             "Principal": " https://panimalar.ac.in/principal.php ",
             "Governing Body": " https://panimalar.ac.in/governing-body.php ",
     	    "Objectives": "https://panimalar.ac.in/objectives.php ",
    	        "Journey So far": " https://panimalar.ac.in/journey-so-far.php "
-        },
+            },
     	"Rules and Regulations": {
             "Page":" https://panimalar.ac.in/rules-regulations.php ",
             "College Timing": "",
             "Dress Code":"",
     	    "Academic Activity": "",
             "Leave Regulations": ""
-        },
+            },
         "Corporate and International Relations" : {
             "Page":" https://panimalar.ac.in/corporate-and-international-relations.php ",
             "Corporate and International Relations":"",
@@ -42,18 +41,18 @@
             "SCIENCE BAZAAR & PECTEAM 2K20":"",
             "Marathon Partnered with Schnieder":"",
             "World Space Week at ISRO":""
-        },
+            },
         "Jaisakthi Educational Trust – Other Institutes":{
             "Panimalar Medical College Hospital and Research Institute ": "https://pmchri.ac.in/ ",
             "Panimalar College of Nursing ": " https://pcon.ac.in/ ",
             "Panimalar College of Allied Health Sciences":  " https://pcoahs.ac.in/ "
-        },
+            },
         "Alumni Association": {
             "Page":" https://panimalar.ac.in/alumini-association.php ",
             "Alumni Report":  " https://panimalar.ac.in/assets/images/alumni/alumni_report.pdf ",
             "Alumni Report ":  " https://panimalar.ac.in/assets/images/alumni/alu19.pdf  "
-        }
-    },
+            }
+        },
     "Courses":{
         "Undergraduate":{
             "B.E - Computer Science and Engineering": {
@@ -71,7 +70,7 @@
                     "2019 – 2020": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-19-20.pdf ",
                     "2020 – 2021": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-20-21.pdf ",
                     "2021 – 2022": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-21-22.pdf "
-                    },
+                        },
                     "Programs Organized":{
                         "2023 – 2024": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2023-2024.pdf",
                         "2023 – 2022": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2022-2023.pdf ",
@@ -79,35 +78,35 @@
                         "2020 – 2021": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2020-2021.pdf ",
                         "2019 – 2020": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2019-2020.pdf ",
                         "2018 – 2019": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2018-2019.pdf "
-                    }
-                },
+                        }
+                    },
                 "Clubs":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                     "Ui-nique Automators":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "LinkedIn":  "https://www.linkedin.com/company/ui-nique-automators/" ,
                         "Instagram": "https://www.instagram.com/_ui_nique?igsh=NW95dzgwMW5nOHNi"
-                    }, 
+                        }, 
                     "CODERS FORUM – We Innovate Way Differently":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "LinkedIn": "https://www.linkedin.com/company/coders-forum ",
                         "Website": " https://codersforum.netlify.app/ ",
                         "GitHub": " https://github.com/Coders-Forum "
-                    },
+                        },
                     "NEURO NEXUS":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "LinkedIn": " https://www.linkedin.com/company/neuro-nexus-club "
-                    },
+                        },
                     "AVENGERS – Game Development Club":{ 
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "LinkedIn": " https://www.linkedin.com/posts/pec-game-development-club_gamedevelopment-inaugurationevent-panimalarengineeringcollege-activity-7215717700315099136-uzUY/?utm_source=share&utm_medium=member_android "
-                    },
+                        },
                     "White Sec – Security":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "LinkedIn": "https://www.linkedin.com/in/jackulin-t-6a8b43317/ "
-                    },
+                        },
                     "App Arena– App development Club":"https://panimalar.ac.in/be-computer-science-and-engineering.php "
-                },
+                    },
                 "Events":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "NPTEL Programme":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "ATAL FDP":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
@@ -125,22 +124,22 @@
                         "2019 – 2020 Issue 2 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/Newsletter-2019_20_ISSUE_2.pdf ",
                         "2018 – 2019 Issue 1 " :"https://panimalar.ac.in/assets/pdf/cse/newsletter/Newsletter_2018_19_ISSUE_1.pdf ",
                         "2018 – 2019 Issue 2 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/Newsletter_2018-19_ISSUE2.pdf "
-                    },
+                        },
                     "Magazine":{
                         "Magazine 2023 " :" https://panimalar.ac.in/assets/pdf/cse/newsletter/CSE-Magazine-PANIMALAR-2023.pdf ",
                         "Magazine 2022 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/CSE-Magazine-PANIMALAR-2022.pdf ",
                         "Magazine 2021 " :"https://panimalar.ac.in/assets/pdf/cse/newsletter/CSE-Magazine-PANIMALAR-2021.pdf ",
                         "Magazine 2020 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/CSE-Magazine-PANIMALAR-2020.pdf ",
                         "Magazine 2019 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/CSE-Magazine-PANIMALAR-2019.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                     "Alumni Members ":" https://docs.google.com/forms/d/e/1FAIpQLSfKtanIztBMZIo8m1dpyIVmyc0ItK782RprXw9KoeRmN6Y2Cg/viewform ",
                     "Student Exit ":" https://docs.google.com/forms/d/e/1FAIpQLScKSTSCeJRuMrOTo2Wpe-3gHsILUlH9-dTcDTOiAtI3GJipxg/viewform ",
                     "Parents " :"https://docs.google.com/forms/d/e/1FAIpQLSfMsLm9TgFf795TMs3e_N-V7oiYqojj_JWsQiMiclPEuF-TWQ/viewform?usp=sf_link ",
                     "End of Course ":" https://docs.google.com/forms/d/e/1FAIpQLSeiSxvEQmec-3aXw2o8P5jqxySHsbbeYJqxK6LPmh8p9chEFQ/viewform?usp=sf_link "
-                },
+                    },
                 "Question Bank":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                     "II YR/ III SEM":{
@@ -153,7 +152,7 @@
                         "Data Structures Laboratory - 23CS1312": " https://sites.google.com/view/23cs1311-data-structures-lab/home ",
                         "Database Management Systems Laboratory - 23CS1312": " https://sites.google.com/view/23cs1312dbmslab/syllabus ",
                         "Object Oriented Programming Laboratory - 23IT1311": " https://sites.google.com/view/23it1311-oopslab/home "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "Theory of Computation - 21CS1503" :" https://sites.google.com/view/peccsetoc ",
@@ -164,7 +163,7 @@
                         "Internet Programming - 21CS1502": " https://sites.google.com/view/internetprogramming/home ",
                         "Augmented Reality/Virtual Reality - 21CS1908" :" https://sites.google.com/view/21cs1908-ar-vr?usp=sharing ",
                         "Internet Programming Lab - 21CS1511": " https://sites.google.com/view/internet-programming-lab/home "
-                    },
+                        },
                     "IV YR/ VII SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "Cryptography and Network Security - 21CS1701" : " https://sites.google.com/view/peccns?usp=sharing ",
@@ -175,8 +174,8 @@
                         "Cyber security - 21IT1915": " https://sites.google.com/view/peccsecs ",
                         "Data Science and Analytics Laboratory - 21CS1711": " https://sites.google.com/view/data-science-lab-/home ",
                         "Cryptography and Network Security Laboratory - 21CS1712" :" https://sites.google.com/view/peccsecnslab/home "
-                    }
-                },
+                        }
+                    },
                 "PG M.E. CSE":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "Achievements " : {
                     "Page":"https://panimalar.ac.in/cse-department-achievements.php ",
@@ -189,8 +188,8 @@
                         "Rank Holders 2021 ": " https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2021.pdf ",
                         "Rank Holders 2020 " : "https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2020.pdf ",
                         "Rank Holders 2019 " : "https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2019.pdf "
-                    }
-                },
+                        }
+                    },
                 "Industry Collaboration ":{
                     "Page":" https://panimalar.ac.in/cse-industry-collaboration.php ",
                     "Industry Interaction":{
@@ -203,8 +202,8 @@
                             "2020 – 2021 " :"https://panimalar.ac.in/assets/pdf/cse/ipt/CSE-Internship_Inplant-Training-20-21.pdf ",
                             "2019 – 2020 " :"https://panimalar.ac.in/assets/pdf/cse/ipt/CSE-Internship_Inplant-Training-19-20.pdf ",
                             "2018 – 2019 " :"https://panimalar.ac.in/assets/pdf/cse/ipt/CSE-Internship_Inplant-Training-18-19.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Industrial Visit":{
                         "Page":"https://panimalar.ac.in/cse-industry-collaboration.php ",
                         "Industrial Visit":{
@@ -212,56 +211,56 @@
                             "Industrial Visit 2023-2024 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2023-24.pdf ",
                             "Industrial Visit 2022-2023 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2022-23.pdf ",
                             "Industrial Visit 2022-2022 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2021-22.pdf "
-                        },
+                            },
                         "Gallery":{
                             "Page":" https://panimalar.ac.in/cse-industry-collaboration.php ",
                             "Photo Gallery " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Industrial-Visit-Photos.pdf "
-                        }
-                    },
+                            }
+                        },
                     "MoU":" https://panimalar.ac.in/cse-industry-collaboration.php "
-                },
-                    "Research":{
+                    },
+                "Research":{
+                    "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                    "Publication":{
                         "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                        "Publication":{
+                        "Faculty Conference Publications":{
                             "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                            "Faculty Conference Publications":{
-                                "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                                "2023-2024 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_23_24.pdf ",
-                                "2022-2023 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_22_23.pdf ",
-                                "2021-2022 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_21_22.pdf ",
-                                "2020-2021 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_20_21.pdf ",
-                                "2019-2020 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_19_20.pdf "
+                            "2023-2024 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_23_24.pdf ",
+                            "2022-2023 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_22_23.pdf ",
+                            "2021-2022 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_21_22.pdf ",
+                            "2020-2021 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_20_21.pdf ",
+                            "2019-2020 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_19_20.pdf "
                             },
-                            "Journal":{
-                                "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                                "2023-2024 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_23_24.pdf ",
-                                "2022-2023 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_22_23.pdf ",
-                                "2021-2022 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_21_22.pdf "
+                        "Journal":{
+                            "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                            "2023-2024 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_23_24.pdf ",
+                            "2022-2023 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_22_23.pdf ",
+                            "2021-2022 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_21_22.pdf "
                             },
-                            "Patents":"https://panimalar.ac.in/cse-research-and-development.php ",
-                            "Copyrights":"https://panimalar.ac.in/cse-research-and-development.php ",
-                            "Research Projects":{
-                                "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                                "Funded Research " :"https://panimalar.ac.in/research-funds.php ",
-                                "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php "
+                        "Patents":"https://panimalar.ac.in/cse-research-and-development.php ",
+                        "Copyrights":"https://panimalar.ac.in/cse-research-and-development.php ",
+                        "Research Projects":{
+                            "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                            "Funded Research " :"https://panimalar.ac.in/research-funds.php ",
+                            "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php "
                             }
                         }
                     },
-                    "Facilities ":{
-                        "Page":" https://panimalar.ac.in/cse-laboratory.php ",
-                        "Laboratory Infrastructure:":" https://panimalar.ac.in/cse-laboratory.php ",
-                        "Academic Facilities":" https://panimalar.ac.in/cse-laboratory.php "
+                "Facilities ":{
+                    "Page":" https://panimalar.ac.in/cse-laboratory.php ",
+                    "Laboratory Infrastructure:":" https://panimalar.ac.in/cse-laboratory.php ",
+                    "Academic Facilities":" https://panimalar.ac.in/cse-laboratory.php "
                     }
-            },
+                },
             "B.E – Electronics and Communications Engineering ":{
                 "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "About the Department":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Vision and Mission":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "PEO, PO’S, PSO’S":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "HOD Profile":{
-                    " https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
+                    "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                     "Research Credentials " :"https://www.scopus.com/authid/detail.uri?authorId=57195713766 "
-                },
+                    },
                 "Faculty List":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Milestones":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Professional Society":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
@@ -275,13 +274,13 @@
                         "Events Participated – 2021-2022- List 2 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2021-2022-list2.pdf ",
                         "Events Participated – 2021-2022 – List 1 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2021-2022-list1.pdf ",
                         "Events Participated – 2019-2020 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2019-2020.pdf "
-                    },
+                        },
                     "Certification Course":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Certification Course – Nasscom " :"https://panimalar.ac.in/assets/pdf/ece/events/CERTIFICATION-COURSE-NASSCOM.pdf ",
                         "Certification Course – NPTEL " :"https://panimalar.ac.in/assets/pdf/ece/events/CERTIFICATION-COURSE-NPTEL.pdf "
-                    }
-                },
+                        }
+                    },
                 "Newsletter and Magazines":{
                     "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                     "Newsletter":{
@@ -291,7 +290,7 @@
                         "Newsletter – 2022 " :"https://panimalar.ac.in/assets/pdf/ece/newsletter/Newsletter-2022.pdf ",
                         "Newsletter – 2021 " :"https://panimalar.ac.in/assets/pdf/ece/newsletter/Newsletter-2021.pdf ",
                         "Newsletter – 2020 ":" https://panimalar.ac.in/assets/pdf/ece/newsletter/Newsletter-2020.pdf "
-                    },
+                        },
                     "Magazine":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Technical Magazine – 2024 " :"https://panimalar.ac.in/assets/pdf/ece/newsletter/Technical-Magazine-2024.pdf ",
@@ -299,8 +298,8 @@
                         "Technical Magazine – 2022 ":" https://panimalar.ac.in/assets/pdf/ece/newsletter/Technical-Magazine-2022.pdf ",
                         "Technical Magazine – 2021 " :"https://panimalar.ac.in/assets/pdf/ece/newsletter/Technical-Magazine-2021.pdf ",
                         "Technical Magazine – 2020 " :"https://panimalar.ac.in/assets/pdf/ece/newsletter/Technical-Magazine-2020.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms":{
                     "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                     "Course Instructor " :"https://forms.gle/HPciKu8NXLUW4As1A ",
@@ -309,7 +308,7 @@
                     "Student Exit ":"https://forms.gle/CQctQSpwZh6bQ92z9 ",
                     "Parents Survey " :"https://forms.gle/g6oRJzCZkxdEJt5s8 ",
                     "End of Course " :"https://forms.gle/hWPViJXztBD7AqyDA "
-                },
+                    },
                 "Question Bank":{
                     "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                     "II YR/ III SEM":{
@@ -321,7 +320,7 @@
                         "Control Systems Engineering 23EC1304 " :"https://sites.google.com/view/control-systems-engineering?usp=sharing ",
                         "Electronic Circuits and Simulation Laboratory I 23EC1311 " :"https://sites.google.com/view/ecs-lab-1/home ",
                         "Control Systems Engineering Laboratory 23EC1312 " :"https://sites.google.com/panimalar.ac.in/control-syst-eng-lab-r2023?usp=sharing "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Analog and Digital Communication 21EC1501"  :"https://sites.google.com/view/analog-and-digital-/home ",
@@ -333,7 +332,7 @@
                         "Microcontrollers and Computer Architecture Laboratory 21EC1511 " :"https://sites.google.com/view/21ec1511microcontrollerlab/home ",
                         "Digital Signal Processing Laboratory 21EC1512" :"https://sites.google.com/panimalar.ac.in/dsp-lab-manual/home ",
                         "Analog and Digital Communication Laboratory 21EC1513 " :"https://sites.google.com/view/adc-lab/lab-manual "
-                    },
+                        },
                     "IV YR/ VII SEM":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Embedded Systems and Robotics 21EC1701 " :"https://sites.google.com/view/embeddedsystem-and-robotics/home ",
@@ -343,15 +342,15 @@
                         "Satellite Communication 21EC1940 " :"https://sites.google.com/view/21ec1940satellitecommunication/home ",
                         "Embedded Systems and Robotics Laboratory 21EC1711" :"https://sites.google.com/view/embedded-systems-and-robotics-?usp=sharing ",
                         "Advanced Communication Laboratory 211712":"https://sites.google.com/view/ec8761advanced-comm-lab/home "
-                    }
-                },
+                        }
+                    },
                 "Gallery":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Achievements " :{
                     "Page":"https://panimalar.ac.in/ece-achievements.php ",
                     "Faculty Achievements":"https://panimalar.ac.in/ece-achievements.php ",
                     "Students Achievements":"https://panimalar.ac.in/ece-achievements.php ",
                     "Rank Holders":"https://panimalar.ac.in/ece-achievements.php "
-                },
+                    },
                 "Industry Collaboration ":{
                     "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
                     "Industry-Institute Interaction":{
@@ -362,22 +361,22 @@
                             "Industrial Skills Initiative - 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2021-2022.pdf ",
                             "Industrial Skills Initiative - 2020 – 2021 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2020-2021.pdf ",
                             "Industrial Skills Initiative - 2019 – 2020 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2019-2020.pdf "
-                        },
+                            },
                         "InPlant Training & Internship ":{
                             "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
                             "Internship 2023-2024 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/Internship-2023-2024.pdf ",
                             "Internship 2022-2023 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/Internship-2022-2023.pdf ",
                             "Internship 2021-2022 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/Internship-2021-2022.pdf" ,
                             "Internship 2020-2021 ":" https://panimalar.ac.in/assets/pdf/ece/industryinstitute/Internship-2020-2021.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Industrial Visit":{
                         "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
                         "Industrial Visit Details " :"https://panimalar.ac.in/assets/pdf/ece/ece-iv.pdf "
-                    },
+                        },
 
                     "MoU":"https://panimalar.ac.in/ece-industry-collaboration.php "
-                ,
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/ece-research.php ",
                     "Publication " :{
@@ -389,7 +388,7 @@
                             "Conference Publication – 2021-2022 " :" https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2021-2022.pdf ",
                             "Conference Publication – 2020-2021 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2020-2021.pdf ",
                             "Conference Publication – 2019-2020 " :" https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2019-2020.pdf "
-                        },
+                            },
                         "Journal Publication " :{
                             "Page":"https://panimalar.ac.in/ece-research.php ",
                             "Journal Publication - 2023-2024 " :" https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2023-2024.pdf ",
@@ -397,29 +396,29 @@
                             "Journal Publication - 2021-2022 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2021-2022.pdf ",
                             "Journal Publication - 2020-2021 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2020-2021.pdf ",
                             "Journal Publication - 2019-2020 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2019-2020.pdf "
-                        },
+                            },
                         "Book Publications "  :"https://panimalar.ac.in/assets/pdf/ece/publication/BOOK-PUBLICATION-DETAILS.pdf "
-                    },
+                        },
                     "Patents " :"https://panimalar.ac.in/ece-research.php ",
                     "Sponsored Research/ Consultancy " :{
                         "Page":"https://panimalar.ac.in/ece-research.php ",
                         "Sponsored Research/Consultancy " :{
                             "Page":"https://panimalar.ac.in/ece-research.php ",
                             "Details of Sponsored Research and Consultancy "  :"https://panimalar.ac.in/assets/pdf/ece/publication/BOOK-PUBLICATION-DETAILS.pdf "
-                        },
+                            },
                         "Academic Research " :{
                             "Page":"https://panimalar.ac.in/ece-research.php ",
                             "Ph. D Guided/Ph. D Awarded " :" https://panimalar.ac.in/assets/pdf/ece/research/ANNA-UNIVERSITY-Ph.D.-Guided-Ph.D.-Awarded.pdf ",
                             "Recognised Supervisor List " :" https://panimalar.ac.in/assets/pdf/ece/research/ANNA-UNIVERSITY-RECOGNISED-SUPERVISOR-LIST.pdf "
+                            }
                         }
-                    }
-                },
+                    },
                 "Facilities " :{
                     "Page":"https://panimalar.ac.in/ece-laboratory.php ",
                     "Laboratory Infrastructure " :"https://panimalar.ac.in/ece-laboratory.php ",
                     "Academic Facilities " :"https://panimalar.ac.in/ece-laboratory.php "
-                }
-            },
+                    }
+                },
             "B.E – Electrical and Electronics Engineering " :{
                 "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                 "About the Department" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
@@ -435,18 +434,18 @@
                     "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                     "Newsletter":{
                     "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
-                        "Newsletter – 2023 – 2024 Issue II " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-"23-24"-II.pdf ",
-                        "Newsletter – 2023 – 2024 Issue I " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-"23-24"-I.pdf ",
-                        "Newsletter – 2022 – 2023 Issue II " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-"22-23"-II.pdf ",
-                        "Newsletter – 2022 – 2023 Issue I " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-"22-23"-I.pdf "
-                    },
+                        "Newsletter – 2023 – 2024 Issue II " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-23-24-II.pdf ",
+                        "Newsletter – 2023 – 2024 Issue I " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-23-24-I.pdf ",
+                        "Newsletter – 2022 – 2023 Issue II " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-22-23-II.pdf ",
+                        "Newsletter – 2022 – 2023 Issue I " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Newsletter-22-23-I.pdf "
+                        },
                     "Magazine":{
                         "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                         "Technical Magazine - 2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Magazine-2023-24.pdf ",
                         "Technical Magazine - 2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Magazine-2022-23.pdf " ,
                         "Technical Magazine - 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/eee/newsletter/Magazine-2021-22.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms":{
                     "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                     "Alumni Members " :"https://docs.google.com/forms/d/e/1FAIpQLSd9NdPda-cuSn3xtNoEdlmJT12mMLTSr07se0Rp2jcEvQADfA/viewform ",
@@ -462,7 +461,7 @@
                     "End of the Course – Sem VII " :"https://docs.google.com/forms/d/e/1FAIpQLScRA5ckROkVqkI_6ACuKnaZltUxBXucZqg9xV1gZxKBgyn6YQ/viewform ",
                     "End of the Course – Sem VIII " :"https://docs.google.com/forms/d/e/1FAIpQLSc2C2ShhkB3uWwc4guaofN6BfYxisfVm398lLaVz8OxBQgfFw/viewform ",
                     "End of Course " :"https://docs.google.com/forms/d/1jVmJCDA4PwqayFlJw4PaT9D0QAr7d5ufmpDj_-TD_T8/viewform?edit_requested=true "
-                },
+                    },
                 "Value Added Programs" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                 "Question Bank":{
                     "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
@@ -473,27 +472,27 @@
                         "Electromagnetic Theory 23EE1301": " https://sites.google.com/view/electromagnetic-theory-/home ",
                         "Analog Electronics 23EE1303": " https://sites.google.com/view/analog-electronics-/home ",
                         "Signals and Systems 23EE1302" :" https://sites.google.com/view/signals-and-systems-/home "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                         "Power System Analysis 21EC1501": " https://sites.google.com/view/power-system-analysis-/home ",
                         "Microprocessors, Microcontrollers and Applications 21EE1502" :" https://sites.google.com/view/microprocessors-microcontrolle/home ",
                         "Electrical Machines II 21EE1503" :" https://sites.google.com/view/electrical-machines-ii/home ",
                         "Power Electronics 21EE1504" :" https://sites.google.com/view/power-electronics-pe/home ",
-                        "IoT Concepts and Applications 21ES1007" " https://sites.google.com/view/iot-concepts-and-applications/home ",
+                        "IoT Concepts and Applications 21ES1007": " https://sites.google.com/view/iot-concepts-and-applications/home ",
                         "PLC Programming 21EE1930" :" https://sites.google.com/view/electric-vehicle-architecture/home ",
                         "Electric Vehicle Architecture 21EE1923" :" https://sites.google.com/view/electric-vehicle-architecture/home "
-                    },
+                        },
                     "IV YR/ VII SEM":{
                         "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
-                        "Protection and Switchgear 21EE1701" " https://sites.google.com/view/protection-and-switchgear/home ",
-                        "Renewal Energy Systems 21EE1702" " https://sites.google.com/view/renewable-energy-systems-/home ",
-                        "High Voltage Engineering 21EE1703" " https://sites.google.com/view/high-voltage-engineering-/home ",
-                        "Power Quality 21EE1905" " https://sites.google.com/view/power-quality-pq/home ",
-                        "Smart System Automation 21EE1919" " https://sites.google.com/view/smart-system-automation/home ",
-                        "Testing of Electric Vehicles 21EE1927" " https://sites.google.com/view/testing-of-electric-vehicles/home "
-                    }
-                },
+                        "Protection and Switchgear 21EE1701" :" https://sites.google.com/view/protection-and-switchgear/home ",
+                        "Renewal Energy Systems 21EE1702" :" https://sites.google.com/view/renewable-energy-systems-/home ",
+                        "High Voltage Engineering 21EE1703": " https://sites.google.com/view/high-voltage-engineering-/home ",
+                        "Power Quality 21EE1905" :" https://sites.google.com/view/power-quality-pq/home ",
+                        "Smart System Automation 21EE1919" :" https://sites.google.com/view/smart-system-automation/home ",
+                        "Testing of Electric Vehicles 21EE1927" :" https://sites.google.com/view/testing-of-electric-vehicles/home "
+                        }
+                    },
                 "Achievements " :{
                     "Page":"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                     "Faculty Achievements" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
@@ -504,11 +503,11 @@
                             "Students Achievements 2023-2024" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "Students Achievements 2020-2021" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "List of Students Achievements" :"https://sites.google.com/view/testing-of-electric-vehicles/home "
-                        },
+                            },
                         "Student Publications" :{
                             "Page":"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "Student Publications" :"https://sites.google.com/view/testing-of-electric-vehicles/home "
-                        },
+                            },
                         "Rank Holders" :{
                             "Page":"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "2018-2022 Rank Holders" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
@@ -517,9 +516,9 @@
                             "2015-2019 Rank Holders" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "2014-2018 Rank Holders" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                             "2013-2017 Rank Holders" :"https://sites.google.com/view/testing-of-electric-vehicles/home "
+                            }
                         }
-                    }
-                },
+                    },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/eee-industry-collaboration.php ",
                     "Industry-Institute Interaction" :{
@@ -527,31 +526,31 @@
                         "Consolidate list of on Internship/Inplant Training" :{
                             "Page":"https://panimalar.ac.in/eee-industry-collaboration.php ",
                             "Consolidate Internship List " :"https://panimalar.ac.in/eee-laboratory.php "
-                        },
+                            },
                         "In-Plant Training " : {
                             "Page":"https://panimalar.ac.in/eee-industry-collaboration.php ",
                             "In-Plant Training  " :"https://panimalar.ac.in/assets/pdf/eee/eee-inplant-planning.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Industrial Visit" :{
                         "Page":"https://panimalar.ac.in/eee-industry-collaboration.php ",
                         "Industrial Visit Details – 2023 " :"https://panimalar.ac.in/assets/pdf/eee/industrial-visit-2023.pdf ",
                         "Industrial Visit Details – 2015-2019 ":" https://panimalar.ac.in/assets/pdf/eee/eee-industrial-visit-1.pdf "
-                    },
+                        },
                     "MoU" :"https://panimalar.ac.in/eee-industry-collaboration.php "
-                },
+                    },
                 "Research ":{
                     "Page":"https://panimalar.ac.in/eee-research.php ",
                     "Publication ":"https://panimalar.ac.in/eee-research.php ",
                     "Patents":"https://panimalar.ac.in/eee-research.php ",
                     "Research Project":"https://panimalar.ac.in/eee-research.php "
-                },
+                    },
                 "Facilities ":{
                     "Page":" https://panimalar.ac.in/eee-laboratory.php ",
                     "Laboratory Infrastructure":" https://panimalar.ac.in/eee-laboratory.php ",
                     "Academic Facilities":" https://panimalar.ac.in/eee-laboratory.php "
-                }
-            },
+                    }
+                },
             "B.E - Mechanical Engineering ":{
                 "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                 "About the Department":"https://panimalar.ac.in/be-mechanical-engineering.php ",
@@ -571,8 +570,8 @@
                         "Intercollege events 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/mech/events/INTERCOLLEGE-EVENTS-2021-2022.pdf ",
                         "Intercollege events 2020 – 2021 " :"https://panimalar.ac.in/assets/pdf/mech/events/INTERCOLLEGE-EVENTS-2020-2021.pdf ",
                         "Intercollege events 2019 – 2020 " :"https://panimalar.ac.in/assets/pdf/mech/events/INTERCOLLEGE-EVENTS-2019-2020.pdf "
-                    }
-                },
+                        }
+                    },
                 "Newsletter and Magazines":{
                     "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                     "Newsletter":{
@@ -586,7 +585,7 @@
                         "Newsletter 2020 – 2021 Issue 1 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/Vol.13-Issue-01-September-2021.pdf ",
                         "Newsletter 2019 – 2020 Issue 2 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/Vol.15.Issue.02-March-2020.pdf ",
                         "Newsletter 2019 – 2020 Issue 1 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/Vol-13-Issue-01-September-2020.pdf "
-                    },
+                        },
                     "Magazine":{
                         "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                         "PECMECH 2024 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/PECMECH_2024.pdf ",
@@ -594,8 +593,8 @@
                         "PECMECH 2022 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/PECMECH_2022.pdf ",
                         "PECMECH 2021 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/PECMECH_2021.pdf ",
                         "PECMECH 2020 " :"https://panimalar.ac.in/assets/pdf/mech/newsletter/PECMECH_2020.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms":{
                     "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                     "Alumni Members " :"https://docs.google.com/forms/d/e/1FAIpQLSdacC6e2XPDr6bn-SQGRPg99mPOuNR4OM8Zi2lc8ZLTdS3R8Q/viewform ",
@@ -604,7 +603,7 @@
                     "Course Instructor " :"https://docs.google.com/forms/d/e/1FAIpQLSd4k_rMh9smjYlE6YLRSrCiJQvtHBOsz3FtIkF-YyNzUqWK6A/viewform ",
                     "Employer " :"https://docs.google.com/forms/d/e/1FAIpQLSf0nwTVBn8Ea_LyrPq7cVzSV3H0OXxrFYDrXdrRxsqu8DFocQ/viewform ",
                     "End of Course " :"https://docs.google.com/forms/d/e/1FAIpQLSdacC6e2XPDr6bn-SQGRPg99mPOuNR4OM8Zi2lc8ZLTdS3R8Q/viewform "
-                },
+                    },
                 "Question Bank":{
                     "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                     "II YR/ III SEM":{
@@ -615,7 +614,7 @@
                         "Engineering Thermodynamics 23ME1303" :"https://sites.google.com/panimalar.ac.in/engineeringthermodynamics/home ",
                         "Engineering Materials and Metallurgy 23ME1304" :"https://sites.google.com/panimalar.ac.in/engg-materials-and-metallury/home ",
                         "Fluid Mechanics and Machinery 23ME1305" :"https://sites.google.com/panimalar.ac.in/fluidmechanicsandmachinery/question-bank "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                         "Thermal Engineering - II 21ME1501 " :"https://sites.google.com/panimalar.ac.in/thermalengineering-ii/home ",
@@ -624,7 +623,7 @@
                         "Computer Aided Design and Manufacturing 21ME1504" :"https://sites.google.com/panimalar.ac.in/computeraideddesignandmanuf/home ",
                         "Dynamics of Machines 21 ME1505" :"https://sites.google.com/panimalar.ac.in/dynamics-of-machines/home ",
                         "Renewable Energy Resources 21ME1917" :"https://sites.google.com/panimalar.ac.in/renewable-energy-resources/home "
-                    },
+                        },
                     "IV YR/ VII SEM":{
                         "Page":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                         "Mechatronics 21ME1701" :"https://sites.google.com/panimalar.ac.in/mechatronics/home ",
@@ -632,8 +631,8 @@
                         "Energy Auditing 21ME1001" :"https://sites.google.com/panimalar.ac.in/energyauditing/question-bank ",
                         "Additive Manufacturing 21ME1912 " :"https://sites.google.com/panimalar.ac.in/additive-manufacturing/home ",
                         "Total Quality Management 21ME1935 " :"https://sites.google.com/panimalar.ac.in/total-quality-management/home "
-                    }
-                },
+                        }
+                    },
                 "Gallery":"https://panimalar.ac.in/be-mechanical-engineering.php ",
                 "Achievements ":{
                     "Page":"https://panimalar.ac.in/mechanical-achievements.php ",
@@ -645,15 +644,15 @@
                         "Anna University Rank Holders " :"https://panimalar.ac.in/assets/pdf/mech/anna-university-rank-holders-list.pdf ",
                         "Anna University Rank Holders list Batch – 2014 to 2018 " :"https://panimalar.ac.in/assets/pdf/mech/rank-holders-list-batch-2014-2018-with-photo-mechanical.pdf ",
                         "Anna University Rank Holders list Batch – 2015 to 2019 " :"https://panimalar.ac.in/assets/pdf/mech/rank-holders-list-batch-2015-2019-with-photo-mechanical.pdf "
-                    },
+                        },
                     "Gallery":"https://panimalar.ac.in/mechanical-achievements.php "
-                },
+                    },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/mechanical-industry-collaboration.php ",
                     "Industry Interaction":"https://panimalar.ac.in/mechanical-industry-collaboration.php ",
                     "Industrial Visit":"https://panimalar.ac.in/mechanical-industry-collaboration.php ",
                     "MoU":"https://panimalar.ac.in/mechanical-industry-collaboration.php "
-                },
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/mechanical-research.php ",
                     "Publication" :{
@@ -664,7 +663,7 @@
                             "Conference Publication 2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/mech/research/Conference-2022-23.pdf ",
                             "Conference Publication 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/mech/research/Conference-2021-22.pdf ",
                             "Conference Publication 2019 – 2020 " :"https://panimalar.ac.in/assets/pdf/mech/research/Conference-2019-20.pdf "
-                        },
+                            },
                         "Journal Publication" :{
                             "Page":"https://panimalar.ac.in/mechanical-research.php ",
                             "Journal Publication 2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/mech/research/Journal-2023-24.pdf ",
@@ -672,8 +671,8 @@
                             "Journal Publication 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/mech/research/Journal-2021-22.pdf "  ,
                             "Journal Publication 2020 – 2021 " :"https://panimalar.ac.in/assets/pdf/mech/research/Journal-2020-21.pdf ",
                             "Journal Publication 2019 – 2020 " :"https://panimalar.ac.in/assets/pdf/mech/research/Journal-2019-20.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Patents" :{
                         "Page":"https://panimalar.ac.in/mechanical-research.php ",
                         "Patents 2023-2024 " :"https://panimalar.ac.in/assets/pdf/mech/research/Patents-2019-20.pdf ",
@@ -681,14 +680,14 @@
                         "Patents 2021-2022 " :"https://panimalar.ac.in/assets/pdf/mech/research/Patents-2021-22.pdf ",
                         "Patents 2020-2021 " :"https://panimalar.ac.in/assets/pdf/mech/research/Patents-2022-23.pdf ",
                         "Patents 2019-2020 " :"https://panimalar.ac.in/assets/pdf/mech/research/Patents-2023-24.pdf "
-                    }
-                },
+                        }
+                    },
                 "Facilities " :{
                     "Page":"https://panimalar.ac.in/mechanical-laboratory.php ",
                     "Laboratory Infrastructure" :"https://panimalar.ac.in/mechanical-laboratory.php ",
                     "Academic Facilities" :"https://panimalar.ac.in/mechanical-laboratory.php "
-                }
-            },
+                    }
+                },
             "B. Tech -Computer Science and Business Systems " :{
                 "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                 "About the Department" :"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
@@ -706,19 +705,19 @@
                         "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                         "Newsletter 2023 – 2024 Issue 1 " :"https://panimalar.ac.in/assets/pdf/csbs/home/Newsletter-2023-2024-Issue-1.pdf ",
                         "Newsletter 2023 – 2024 Issue 2 " :"https://panimalar.ac.in/assets/pdf/csbs/home/Newsletter-2023-2024-Issue-2.pdf "
-                    },
+                        },
                     "Magazine" :{
                         "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                         "Magazine 2023-2024 " :"https://panimalar.ac.in/assets/pdf/csbs/home/23-24-Magazine-CSBS.pdf ",
                         "Magazine 2022-2023 " :"https://panimalar.ac.in/assets/pdf/csbs/home/22-23-Magazine-CSBS.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms" :{
                     "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                     "Student Exit " :"https://docs.google.com/forms/d/e/1FAIpQLSdjLwIOfaoAoKglAbjiAezi-NtwEbfoH11rYW1Dg0CnFDJdCQ/viewform?usp=sharing ",
                     "Parents Survey " :"https://docs.google.com/forms/d/e/1FAIpQLSeJ64zfSONHSmIugGW7ytW0y2eDKak3zUpByQHc967o0lv8rw/viewform?usp=sharing ",
                     "End of Course "  :"https://docs.google.com/forms/d/e/1FAIpQLSdYYf4ZnUKtyFuD-eK_zWb1JhmWqyu1sWPBYsDuUxQosyzRrQ/viewform?usp=sharing "
-                },
+                    },
                 "Question Bank" :{
                     "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                     "II YR/ III SEM" :{
@@ -728,7 +727,7 @@
                         "Computational Statistics 23MA1305" :"https://tinyurl.com/nhyhrez5 ",
                         "Software Engineering 23CB1303" :"https://tinyurl.com/hthvu5u6 ",
                         "Computer Organization and Architecture 23CB1304" :"https://tinyurl.com/482j7yxe "
-                    },
+                        },
                     "III YR/ V SEM" :{
                         "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                         "Statistical Computing with R 21CB1501" :"https://tinyurl.com/3b5knha5 ",
@@ -738,7 +737,7 @@
                         "Theory of Computation 21 ME1505 " :"https://tinyurl.com/jvutapd6 ",
                         "Cloud Tools and Techniques PE-I 21CS1901" :"https://tinyurl.com/4pxw898z ",
                         "Business Strategy Management PE-I 21CB1906" :"https://tinyurl.com/2perfw62 "
-                    },
+                        },
                     "IV YR/ VII SEM" :{
                         "Page":"https://panimalar.ac.in/btech-computer-science-and-business-systems.php ",
                         "Introduction to Innovation, IP Management and Entrepreneurship 21CB1701" :"https://tinyurl.com/3ywkj3c9 ",
@@ -747,19 +746,19 @@
                         "Ethics and AI Professional Elective – III 21AD1907 " :"https://tinyurl.com/5ftkwx2p ",
                         "Cyber Security Professional Elective – III 21ME1935 " :"https://tinyurl.com/534kydwc ",
                         "Principles of Programming Languages Professional Elective – IV " :"https://tinyurl.com/223y6bxs "
-                    }
-                },
+                        }
+                    },
                 "Achievements":{
                     "Page":" https://panimalar.ac.in/csbs-department-achievements.php ",
                     "Faculty Achievements":" https://panimalar.ac.in/csbs-department-achievements.php ",
                     "Students Achievements":" https://panimalar.ac.in/csbs-department-achievements.php "
-                },
+                    },
                 "Industry Collaboration ":{
                     "Page":" https://panimalar.ac.in/csbs-industry-collaboration.php ",
                     "Industry Interaction ":" https://panimalar.ac.in/csbs-industry-collaboration.php ",
                     "Industrial Visit":" https://panimalar.ac.in/csbs-industry-collaboration.php ",
                     "MoU":" https://panimalar.ac.in/csbs-industry-collaboration.php "
-                },
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                     "Publication" :{
@@ -768,36 +767,36 @@
                             "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                             "Conference Publication 2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Conferences_23_24.pdf ",
                             "Conference Publication 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Conferences_21_22.pdf "
-                        },
+                            },
                         "Journal Publication" :{
                             "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                             "Journal Publication 2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Journal_23_24.pdf ",
                             "Journal Publication 2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Journal_22_23.pdf ",
                             "Journal Publication 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Journal_21_22.pdf "
-                        },
+                            },
                         "Book Publication" :{
                             "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                             "Book Publication " :"https://panimalar.ac.in/assets/pdf/csbs/research/Book_Publication.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Patents" :{
                         "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                         "Patents 2023-2024 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Patent_23_24.pdf ",
                         "Patents 2022-2023 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Patent_22_23.pdf ",
                         "Patents 2021-2022 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Patent_21_22.pdf ",
                         "Patents 2020-2021 " :"https://panimalar.ac.in/assets/pdf/csbs/research/Patent_20_21.pdf "
-                    },
+                        },
                     "Sponsored Research/Consultancy" :{
                         "Page":"https://panimalar.ac.in/csbs-research-and-development.php ",
                         "Details of Sponsored Research and Consultancy " :"https://panimalar.ac.in/assets/pdf/csbs/research/Consultancy-project.pdf "
-                    }
-                },
+                        }
+                    },
                 "Facilities " :{
                     "Page":"https://panimalar.ac.in/csbs-laboratory.php ",
                     "Laboratory Infrastructure" :"https://panimalar.ac.in/csbs-laboratory.php ",
                     "Academic Facilities" :"https://panimalar.ac.in/csbs-laboratory.php "
-                }
-            },
+                    }
+                },
             "B. Tech – Information Technology  " :{
                 "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                 "About the Department" :"https://panimalar.ac.in/btech-information-technology.php ",
@@ -811,7 +810,7 @@
                     "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                     "FDP Organized " :"https://panimalar.ac.in/assets/pdf/it/FDP-Organized.pdf ",
                     "FDP Attended " :"https://panimalar.ac.in/assets/pdf/it/FDP-Attended.pdf "
-                },
+                    },
                 "Clubs" :"https://panimalar.ac.in/btech-information-technology.php ",
                 "Photo Gallery" :"https://panimalar.ac.in/btech-information-technology.php ",
                 "Innovation in Teaching Mehodoloy" :"https://panimalar.ac.in/btech-information-technology.php ",
@@ -823,26 +822,26 @@
                         "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                         "2023 – 2024 Issue " :"https://panimalar.ac.in/assets/pdf/it/newsletter/IT_Newsletter-23-24.pdf ",
                         "2020 – 2021 Issue 1 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2020-2021-Issue1.pdf ",
-                        "2020 – 2021 Issue 1 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2020-2021-Issue2.pdf ",
+                        "2020 – 2021 Issue  " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2020-2021-Issue2.pdf ",
                         "2019 – 2020 Issue 2 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2019-2020-Issue1.pdf ",
                         "2019 – 2020 Issue 1 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2019-2020-Issue2.pdf ",
                         "2018 – 2019 Issue 2 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2018-2019-Issue1.pdf ",
-                        "2018 – 2019 Issue 1 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2018-2019-Issue2.pdf " }
-                    },
+                        "2018 – 2019 Issue 1 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/2018-2019-Issue2.pdf " 
+                        },
                     "Magazine" :{
                         "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                         "Magazine 2022-2023 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/Magazine2022-2023.pdf " ,
                         "Magazine 2020-2021 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/Magazine2020-2021.pdf ",
                         "Magazine 2019–2020 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/Magazine2019-2020.pdf ",
                         "Magazine 2018–2019 " :"https://panimalar.ac.in/assets/pdf/it/newsletter/Magazine2018-2019.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms" :{
                     "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                     "Course Instructor Survey " :"https://docs.google.com/forms/d/1BEhAnhw2Dnuxw1aZSgBYr7x0vcAZaZ9AidVf-LgnS6E/edit ",
                     "Alumni Survey " :"https://docs.google.com/forms/d/1SyBDq78FAOVzN8XZgy7_OhVaXEU4fiuo9H6ceXgrKDM/edit?usp=forms_home&ths=true ",
-                    "Student Exit Survey " :"https://docs.google.com/forms/d/1i2dgMty4aSkbDpP_UuTzYPQDVEHimSCT5v654AbjbmQ/edit " }
-                },
+                    "Student Exit Survey " :"https://docs.google.com/forms/d/1i2dgMty4aSkbDpP_UuTzYPQDVEHimSCT5v654AbjbmQ/edit " 
+                    },
                 "Question Bank" :{
                     "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                     "II YR/ III SEM" :{
@@ -852,7 +851,7 @@
                         "Object Oriented Programming 23IT1301" :"https://sites.google.com/view/23it1301-oops-material ",
                         "Microprocessor and Microcontroller 23IT1302" :"https://sites.google.com/view/21it1402-mpsystems ",
                         "Discrete Mathematics 23MA1301" :"https://sites.google.com/view/pecdm/home "
-                    },
+                        },
                     "III YR/ V SEM" :{
                         "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                         "Compiler Engineering 21IT1501" :"https://sites.google.com/view/pecdm/home ",
@@ -862,7 +861,7 @@
                         "Ethical Hacking 21IT1908 " :"https://sites.google.com/view/ethical-hacking-pec-it/question-bank ",
                         "Hospital Waste Management 21GE1004" :"https://sites.google.com/view/21ge1004-hwm/home ",
                         "Telehealth Technology 21EC1001" :"https://sites.google.com/view/omd553-tht/question-bank "
-                    },
+                        },
                     "IV YR/ VII SEM" :{
                         "Page":"https://panimalar.ac.in/btech-information-technology.php ",
                         "Mobile Computing and mobile application development 21IT1701" :"https://sites.google.com/view/21it1701-mcmad-labintegrated/home ",
@@ -871,8 +870,8 @@
                         " Software Testing and Automation 21IT1904" :"https://sites.google.com/view/ivyrpom?usp=sharing ",
                         "CRYPTOCURRENCY AND BLOCKCHAIN TECHNOLOGIES 21IT1913" :"https://sites.google.com/view/blockchain-cryptocurr/home/bccc-qb ",
                         "Supply chain management 21ME1008" :"https://sites.google.com/view/ "
-                    }
-                },
+                        }
+                    },
                 "Achievements " :{
                     "Page":"https://panimalar.ac.in/btech-it-achievements.php " ,
                     "Faculty Achievements" :"https://panimalar.ac.in/btech-it-achievements.php " ,
@@ -884,9 +883,9 @@
                         "Rank Holder List – 2016-2020 " :"https://panimalar.ac.in/assets/pdf/it/rank-holders-2016-2020.pdf ",
                         "Rank Holder List – 2015-2019 " :"https://panimalar.ac.in/assets/pdf/it/rank-holders-2015-2019.pdf ",
                         "Rank Holder List – 2013-2017, 2012-2016, 2011-2015 " :"https://panimalar.ac.in/assets/pdf/it/it-rank-holders.pdf "
+                            },
+                    "Award Details" :"https://panimalar.ac.in/btech-it-achievements.php " 
                     },
-                    "Award Details" :"https://panimalar.ac.in/btech-it-achievements.php " }
-                },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/btech-industry-collaboration.php ", 
                     "Industry Institution & Interaction " :{
@@ -896,33 +895,33 @@
                             "Internship and Inplant Training " :"https://panimalar.ac.in/assets/pdf/it/Internship-and-Inplant-Training.pdf ",
                             "Placement Internship ":" https://panimalar.ac.in/assets/pdf/it/Internship-and-Inplant-Training.pdf ",
                             "Events Organized " :"https://panimalar.ac.in/assets/pdf/it/Events-Organized.pdf "
-                        }
-                    },
+                            }
+                        },
                     "Industrial Visit " :{
                         "Page":"https://panimalar.ac.in/btech-industry-collaboration.php ",
                         "List of Industrial Visit " :"https://panimalar.ac.in/assets/pdf/it/ivlist.pdf "
-                    },
+                        },
                     "Guest Lectures " :{
                         "Page":"https://panimalar.ac.in/btech-industry-collaboration.php ",
                         "List of guest lectures " :"https://panimalar.ac.in/assets/pdf/it/Guest-Lectures.pdf ",
                         "List of guest lectures – 2018-2019, 2020-2021 " :"https://panimalar.ac.in/assets/pdf/it/Guest-Lectures-Organized.pdf ",
                         "List of guest lectures – 2017-2018 " :"https://panimalar.ac.in/assets/pdf/it/it-guest-lecture.pdf "
-                    },
+                        },
                     "MoU " :"https://panimalar.ac.in/btech-industry-collaboration.php "
-                },
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/btech-it-research.php ",
                     "Patents" :"https://panimalar.ac.in/btech-it-research.php ",
                     "Copyrights" :"https://panimalar.ac.in/btech-it-research.php ",
                     "Journal Publications" :"https://panimalar.ac.in/btech-it-research.php ",
                     "Conference Publication" :"https://panimalar.ac.in/btech-it-research.php "
-                },
+                    },
                 "Laboratory " :{
                     "Page":"https://panimalar.ac.in/btech-it-laboratory.php ",
                     "Laboratory Infrastructure" :"https://panimalar.ac.in/btech-it-laboratory.php ",
                     "Academic Facilities" :"https://panimalar.ac.in/btech-it-laboratory.php "
-                }
-            },
+                    }
+                },
             "B. Tech - Artificial Intelligence and Data Science ":{
                 "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "About the Department":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
@@ -940,12 +939,12 @@
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Newsletter 2023 – 2024 Issue 2 " :"https://panimalar.ac.in/assets/pdf/it/it-guest-lecture.pdf ",
                         "Newsletter 2023 – 2024 Issue 1 ":" https://panimalar.ac.in/assets/pdf/it/it-guest-lecture.pdf "
-                    },
+                        },
                     "Magazine":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Magazine 2023-2024 " :"https://panimalar.ac.in/assets/pdf/aids/newsletter/Magazine-2023-2024.pdf "
-                    }
-                },
+                        }
+                    },
                 "Value Added Course":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "Gallery":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "Question Bank":{
@@ -957,7 +956,7 @@
                         "Artificial Intelligence and Expert Systems 23AD1302" :"https://sites.google.com/panimalar.ac.in/aies/home ",
                         "Object Oriented Programming Paradigm 23AD1303" :"https://sites.google.com/panimalar.ac.in/oopp/home ",
                         "Database Management Systems 23CS1303" :"https://sites.google.com/view/dbms-notes2024/home "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Formal Language and Automata Theory 21AD1501" :"https://sites.google.com/panimalar.ac.in/kies/home ",
@@ -966,7 +965,7 @@
                         "Data Exploration and Visualization 21AD1503" :"https://sites.google.com/panimalar.ac.in/dev/home ",
                         "Data Analytics 21AD1504" :"https://sites.google.com/view/21ad1504?usp=sharing ",
                         "Knowledge Engineering and Intelligent Systems 21AD1505" :"https://sites.google.com/d/1-M1eZ7Rb6nxwQc5p0Uqh08LyAthehdsX/p/1m3x1O4VF6nRg6zt1UxtHlnkeDF3-yqrv/edit "
-                    },
+                        },
                     "IV YR/ VII SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Business Analytics 21AD1701" :"https://sites.google.com/panimalar.ac.in/business-analtyics/home ",
@@ -974,13 +973,13 @@
                         "AI and Robotics Lab Integrated 21MG1701" :"https://sites.google.com/panimalar.ac.in/ai-robotics/home ",
                         " Software Testing and Automation 21IT1904" :"https://sites.google.com/view/software-testing-and-auto/home/question-bank ",
                         "Web & Social Media Analytics 21AD1909":" https://sites.google.com/panimalar.ac.in/web/home "
-                    }
-                },
+                        }
+                    },
                 "Achievements " :   {
                     "Page":"https://panimalar.ac.in/aids-department-achievements.php ",
                     "Faculty Achievements" :"https://panimalar.ac.in/aids-department-achievements.php ",
                     "Students Achievements" :"https://panimalar.ac.in/aids-department-achievements.php "
-                },
+                    },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/aids-industry-collaboration.php ",
                     "Industry Interaction" :{
@@ -989,23 +988,24 @@
                             "Page":"https://panimalar.ac.in/aids-industry-collaboration.php ",
                             "2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/aids/industry/Industry-interaction-23-24.pdf ",
                             "2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/aids/industry/Industry-Interaction-22-23.pdf "
+                            }
                         },
                     "Industrial Visit" :"https://panimalar.ac.in/aids-industry-collaboration.php ",
                     "MoU" :"https://panimalar.ac.in/aids-industry-collaboration.php "
-                },
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/aids-research-and-development.php ",
                     "Patents" :"https://panimalar.ac.in/aids-research-and-development.php ",
                     "Copyrights" :"https://panimalar.ac.in/aids-research-and-development.php ",
                     "Journal Publications" :"https://panimalar.ac.in/aids-research-and-development.php ",
                     "Conference Publication" :"https://panimalar.ac.in/aids-research-and-development.php "
-                },
+                    },
                 "Laboratory ":{
                     "Page":"https://panimalar.ac.in/aids-laboratory.php ",
                     "Laboratory Infrastructure":"https://panimalar.ac.in/aids-laboratory.php ",
                     "Academic Facilities":"https://panimalar.ac.in/aids-laboratory.php "
-                }
-            },
+                    }
+                },
             "B. Tech - Artificial Intelligence and Machine Learning ":{
                 "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                 "About the Department":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
@@ -1026,7 +1026,7 @@
                         "Object Oriented Programming Paradigm 23AD1303": " https://sites.google.com/view/23ad1303/home ",
                         "Digital Principles and Computer Architecture 23CS1301": " https://sites.google.com/view/23cs1301-dpca/home ",
                         "Database Management Systems 23CS1303" :" https://sites.google.com/view/ii-aiml-dbms/home "
-                    },
+                        },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                         "Data Exploration and Visualization 21AD1503": " https://sites.google.com/view/iii-v-sem-dev/home ",
@@ -1035,27 +1035,26 @@
                         "Machine Intelligence for Network Science 21ML1501": " https://sites.google.com/view/aiml-iii-v-sem21ml1501-mins/home ",
                         "Open Elective – I Air Pollution and Control Engineering 21AD1504": " https://sites.google.com/view/aiml-iiiv-sem-21ce1010-apec/home ",
                         "Multimedia and Animation Professional Elective – I21CS1909" :" https://sites.google.com/view/aiml-iii--multimedia-animation/home "
-                    }
-                },
+                        }
+                    },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/aiml-industry-collaboration.php ",
                     "Industry Interaction" :"https://panimalar.ac.in/aiml-industry-collaboration.php ",
                     "Industrial Visit" :"https://panimalar.ac.in/aiml-industry-collaboration.php ",
                     "MoU" :"https://panimalar.ac.in/aiml-industry-collaboration.php "
-                },
+                    },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/aiml-research-and-development.php ",
                     "Journal Publications" :"https://panimalar.ac.in/aiml-research-and-development.php ",
                     "Patents" :"https://panimalar.ac.in/aiml-research-and-development.php "
-                },
+                    },
                 "Facilities " :{
                     "Page":"https://panimalar.ac.in/aiml-laboratory.php ",
                     "Laboratory Infrastructure" :"https://panimalar.ac.in/aiml-laboratory.php ",
                     "Academic Facilities" :"https://panimalar.ac.in/aiml-laboratory.php "
+                    }
                 }
-            }
-        },
-
+            },
         "Postgraduate":{
             "M.E - Computer Science and Engineering" :"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
             "M.E – Communication Systems " :{
@@ -1064,7 +1063,7 @@
                 "Vision and Mission" :"https://panimalar.ac.in/me-communication-systems.php ",
                 "Prog. Edu Objectives & Outcomes" :"https://panimalar.ac.in/me-communication-systems.php ",
                 "Publications" :"https://panimalar.ac.in/me-communication-systems.php "
-            },
+                },
             "Master of Business Administration MBA" :{
                 "Page":" https://panimalar.ac.in/mba.php ",
                 "About the Department" :" https://panimalar.ac.in/mba.php ",
@@ -1074,7 +1073,7 @@
                     "Page":" https://panimalar.ac.in/mba.php ",
                     "Google Scholar Link: " :"https://shorturl.at/mvBOU ",
                     "Scopus Link: " :"https://shorturl.at/dHNSV "
-                },
+                    },
                 "Faculty List" :" https://panimalar.ac.in/mba.php ",
                 "Milestones" :" https://panimalar.ac.in/mba.php ",
                 "Guest Lectures" :" https://panimalar.ac.in/mba.php ",
@@ -1087,19 +1086,19 @@
                         "Page":" https://panimalar.ac.in/mba.php ",
                         "PECMBA 2023 – 1 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/PECMBA-2023-1.pdf ",
                         "PECMBA 2023 – 2  " :" https://panimalar.ac.in/assets/pdf/mba-pdf/PECMBA-2023-2.pdf "
-                    },
+                        },
                     "Magazine" :{
                         "Page":" https://panimalar.ac.in/mba.php ",
                         "Zephyrom 2023 – Issue 20 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/Zephyrom-2023.pdf "
-                    }
-                },
+                        }
+                    },
                 "Survey Forms" :{
                     "Page":" https://panimalar.ac.in/mba.php ",
                     "Alumni Members" :" https://panimalar.ac.in/mba.php ",
                     "Student Exit" :" https://panimalar.ac.in/mba.php ",
                     "Parents" :" https://panimalar.ac.in/mba.php ",
                     "End of the Course – Sem I" :" https://panimalar.ac.in/mba.php "
-                },
+                    },
                 "Question Bank" :{
                     "Page":" https://panimalar.ac.in/mba.php ",
                     "I Yr / I Sem" :{
@@ -1111,7 +1110,7 @@
                         "Legal and Business Environment 23MB3105": " https://tinyurl.com/4mmrbfcn ",
                         "Information Systems Management 23MB3106": " https://tinyurl.com/35h9bvm9 ",
                         "Marketing Management 23MB3107": " https://tinyurl.com/28svfjbv "
-                    },
+                        },
                     "II Yr / III Sem" :{
                         "Page":" https://panimalar.ac.in/mba.php ",
                         "Strategic Management 23MB3301" :" https://tinyurl.com/y8hfpea3 ",
@@ -1128,8 +1127,8 @@
                         "Data Minning for Business Intelligence 23MB3346" :" https://tinyurl.com/22f7ynxb ",
                         "Artificial Intelligence and Deep Learning 23MB3347" :" https://tinyurl.com/22vnkk78 ",
                         "Multivariate Data Analysis 23MB3351": " https://tinyurl.com/3cv9kmc6 "
-                    }
-                },
+                        }
+                    },
                 "Achievements " :{
                     "Page":"https://panimalar.ac.in/mba-achievements.php ",
                     "Anna University Rank Holders" :{
@@ -1139,42 +1138,42 @@
                             "Anna University Rank Holders 2009-11" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 26": " https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/rank0911.pdf "
-                            },
+                                },
                             "Anna University Rank Holders2011-13" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 17" : " https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/rank1113.pdf "
-                            },
+                                },
                             "Anna University Rank Holders 2012-14" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 7" :" https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/rank1214.pdf "
-                            },
+                                },
                             "Anna University Rank Holders 2013-15" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 29": " https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/rank1315.pdf "
-                            },
+                                },
                             "Anna University Rank Holders 2014-16" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 17": " https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/rank1416.pdf "
-                            },
+                                },
                             "Anna University Rank Holders 2015-22" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 2015 – 2022 " :"https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/MBA-RANK-LIST-2023.pdf "
-                            }
-                        }   
-                    }
-                },
+                                }
+                            }   
+                        }
+                    },
                 "Internship Program " :{
                     "Page":"https://panimalar.ac.in/mba-internship.php ",
                     "Internship Program " :{
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
                         "Internship Brochure " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-Brochure.pdf "
-                    },
+                        },
                     "Student Internship " :{
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
                         "2020-2021 ":" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2020-2021.pdf ",
                         "2021-2022 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2021-2022.pdf ",
                         "2022-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2022-2023.pdf "
-                    },
+                        },
                     "Students Project List" :{
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
                         "5014-2016 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1416.pdf ",
@@ -1185,39 +1184,39 @@
                         "2019-2021 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl19.pdf ",
                         "2020-2022 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl20.pdf ",
                         "2021-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl21.pdf "
-                    }
-                },
+                        }
+                    },
                 "Industrials Visits " :{
                     "Page":" https://panimalar.ac.in/mba-industrial-visit.php ",
                     "Industrial Visits" :" https://panimalar.ac.in/mba-industrial-visit.php ",
                     "Industrial Internship-2014-2015" :" https://panimalar.ac.in/mba-industrial-visit.php "
-                },
+                    },
                 "Laboratory " :{
                     "Page":" https://panimalar.ac.in/mba-laboratory.php ",
                     "Laboratory Infrastructure":" https://panimalar.ac.in/mba-laboratory.php "
+                    }
                 }
-            }
-        },
+            },
         "Humanities and Science " :{
             "Page":"https://panimalar.ac.in/humanities-and-science.php ",
-            "Humanities and Science":"https://panimalar.ac.in/humanities-and-science.php ",
+
                 "About the Department" :"https://panimalar.ac.in/humanities-and-science.php ",
                 "Department of English" :{
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "About the Department" :"https://panimalar.ac.in/humanities-and-science.php "
-                },
+                    },
                 "Department of Mathematics" :{
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "About the Department" :"https://panimalar.ac.in/humanities-and-science.php "
-                },
+                    },
                 "Department of Physics" :{
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "About the Department" :"https://panimalar.ac.in/humanities-and-science.php "
-                },
+                    },
                 "Department of Chemistry" :{
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "About the Department" :"https://panimalar.ac.in/humanities-and-science.php "
-                },
+                    },
                 "Question Bank":{
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "Python Programming 21ES1201": " https://sites.google.com/view/23es1201/home ",
@@ -1244,10 +1243,9 @@
                     "Basic Electrical Engineering 23ES1205" :" https://sites.google.com/view/23es1205/home ",
                     "Principles of Electronics 23EE1204" :" https://sites.google.com/view/23ee1204/home ",
                     "Tamils and Technology 23TA1201" :" https://sites.google.com/view/23ta1201/home "
-                }
+                    }
             }
-        }
-    },
+        },
     "Academics":{
         "Academic council members " :"https://coe.panimalar.ac.in/Academic_Council.php ",
         "Core academic council team" :"https://panimalar.ac.in/core-academic-team.php ",
@@ -1256,12 +1254,12 @@
             "Regulation 2023":{
                 "UG Regulation " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202023-B.E%20&%20B.Tech%20N.pdf ",
                 "PG Regulation " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202023%20-%20M.E%20&%20M.Tech%20N.pdf "
-            },
+                },
             "Regulation 2021":{
                 "UG Regulation with Amendments " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202021-B.E%20&%20B.Tech%20N.pdf ",
                 "PG Regulation with Amendments " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202021%20-%20M.E%20&%20M.Tech.pdf "
-            }
-        },
+                }
+            },
         "Curriculum and syllabus": {
             "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
             "R-2023 Batch 2024-2025": {
@@ -1274,7 +1272,7 @@
                 "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2023-CSBS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                 "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/R2023-IT-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                 "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf "
-            },
+                },
             "R-2023 Batch 2023 – 2024 " : {
                 "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php" ,
                 "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2023-CSE-Curriculum%20&%20Syllabus.pdf ",
@@ -1288,8 +1286,8 @@
                 "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CSE-Curriculum%20&%20Syllabus.pdf ",
                 "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CS-Curriculum%20&%20Syllabus.pdf ",
                 "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf ",
-                "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%20"2023-24".pdf "
-            },
+                "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%202023-24.pdf "
+                },
             "R-2021": " https://coe.panimalar.ac.in/Syllabus.php ",
             "R-2017": {
                 "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2017.php ",
@@ -1306,7 +1304,7 @@
                 "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
                 "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E-%20Communication%20Systems.pdf ",
                 "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf "
-            },
+                },
             "Open Elective":{
                 "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
                 "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
@@ -1318,8 +1316,8 @@
                 "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
                 "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
                 "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
-            }
-        },
+                }
+            },
         "Committees": " https://panimalar.ac.in/committee.php ",
         "Internal Quality Assurance Cell IQAC" :{
             "Page":" https://panimalar.ac.in/iqac.php ",
@@ -1333,14 +1331,13 @@
                 "Third minutes of meeting 22-23 ": "  https://panimalar.ac.in/assets/pdf/iqac/mom/Third-Minutes-of-Meeting-22-23.pdf ",
                 "Second minutes of meeting 22-23 ": "  https://panimalar.ac.in/assets/pdf/iqac/mom/Second-Minutes-of-Meeting-22-23.pdf ",
                 "First minutes of meeting 22-23 " : " https://panimalar.ac.in/assets/pdf/iqac/mom/First-Minutes-of-Meeting-22-23.pdf "
-            },
+                },
             "IQAC Policy Manual" :{
                 "Page":"https://panimalar.ac.in/iqac.php ",
                 "Policy Manual " : " https://panimalar.ac.in/assets/pdf/iqac/IQAC-Policy-Manual.pdf ",
                 "Policies and Procedures " : " https://panimalar.ac.in/assets/pdf/iqac/IQAC-POLICIES.pdf "
-            }
-        },
-
+                }
+            },
         "Memorandum of Understanding MoU" :" https://panimalar.ac.in/mou.php ",
         "PEC-AICTE Idea Lab " : {
             "Page":" https://panimalar.ac.in/idea-lab.php ",
@@ -1350,7 +1347,7 @@
             "Inauguration " : " https://panimalar.ac.in/idea-lab.php ",
             "Upcoming event " : " https://panimalar.ac.in/idea-lab.php ",
             "Newsletter " : " https://panimalar.ac.in/assets/pdf/idealab/newsletter/Idealab-Newsletter.pdf "
-        },
+            },
         "Institution’s Innovation Council IIC" : " https://panimalar.ac.in/iic.php ",
         "Entrepreneurship development cells EDC" :{
             "Page":" https://panimalar.ac.in/entrepreneurship-development-cell.php ",
@@ -1363,7 +1360,7 @@
                 "Page":"https://panimalar.ac.in/entrepreneurship-development-cell.php ",
                 "NISP " : "https://mic.gov.in/assets/doc/startup_policy_2019.pdf ",
                 "Tamil Nadu Startup " : "https://mic.gov.in/assets/doc/startup_policy_2019.pdf "
-            },
+                },
             "Startup " : "https://panimalar.ac.in/entrepreneurship-development-cell.php ",
             "Entrepreneurs " : {
                 "Page":"https://panimalar.ac.in/entrepreneurship-development-cell.php ",
@@ -1371,8 +1368,8 @@
                 "Ogrelix " : "https://panimalar.ac.in/assets/images/edc/entrepreneur/Orgelix-company.pdf ",
                 "Reverie synaptic pulse " : "https://panimalar.ac.in/assets/images/edc/entrepreneur/Reverie-Synaptic-Pulse.pdf ",
                 "Contacts Us " : "https://panimalar.ac.in/entrepreneurship-development-cell.php "
-            }
-        },
+                }
+            },
         "Higher Education Centre ": "https://panimalar.ac.in/higher-education-centre.php ",
         "Professional societies and clubs " : "https://panimalar.ac.in/professional-bodies.php ",
         "NPTEL " : "https://nptel.ac.in/localchapter/statistics/161 ",
@@ -1383,7 +1380,7 @@
             "Invocation " : "https://panimalar.ac.in/assets/pdf/academics/nirf2024/INNOVATION.pdf ",
             "Overall " :"https://panimalar.ac.in/assets/pdf/academics/nirf2024/OVERALL.pdf "
         }
-    },
+        },
     "CoE ": {
         "Page":" https://coe.panimalar.ac.in/ ",
         "PEC Home " :"https://panimalar.ac.in/ ",
@@ -1395,27 +1392,27 @@
                 "Page":"https://coe.panimalar.ac.in/Management.php ",
                 "Secretary":{
                     "Dr. P. Chinnadurai, M.A, Ph.D " :"https://coe.panimalar.ac.in/Secretary.php "
-                },
+                    },
                 "Director":{
                     "Dr. C. Sakthi Kumar, M.E., Ph.D  " :"https://coe.panimalar.ac.in/Director1.php ",
                     "Mrs. C. Vijayarajeswari " :"https://coe.panimalar.ac.in/Director2.php ",
                     "Dr. Saranya Sree Sakthi Kumar, B.E., MBA., Ph.D " :"https://coe.panimalar.ac.in/Director3.php "
-                }
-            },
+                    }
+                },
             "Principal " :"https://coe.panimalar.ac.in/Principal.php "
-        },
+            },
         "Academics":{
             "Regulation " :{
                 "Page":"https://coe.panimalar.ac.in/Regulations.php ",
                 "Regulation 2023":{
                     "UG Regulation " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202023-B.E%20&%20B.Tech%20N.pdf ",
                     "PG Regulation " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202023%20-%20M.E%20&%20M.Tech%20N.pdf "
-                },
+                    },
                 "Regulation 2021":{
                     "UG Regulation with Amendments " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202021-B.E%20&%20B.Tech%20N.pdf ",
                     "PG Regulation with Amendments " :"https://coe.panimalar.ac.in/files/PEC-Regulation%202021%20-%20M.E%20&%20M.Tech.pdf "
-                }
-            },
+                    }
+                },
             "Curriculum and syllabus": {
                 "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
                 "R-2023 Batch 2024-2025": {
@@ -1428,7 +1425,7 @@
                     "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2023-CSBS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                     "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/R2023-IT-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                     "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf "
-                },
+                    },
                 "R-2023 Batch 2023 – 2024 " : {
                     "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php", 
                     "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2023-CSE-Curriculum%20&%20Syllabus.pdf ",
@@ -1442,8 +1439,8 @@
                     "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CSE-Curriculum%20&%20Syllabus.pdf ",
                     "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CS-Curriculum%20&%20Syllabus.pdf ",
                     "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf ",
-                    "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%20"2023-24".pdf "
-                },
+                    "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%202023-24.pdf "
+                    },
                 "R-2021": " https://coe.panimalar.ac.in/Syllabus.php ",
                 "R-2017": {
                     "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2017.php ",
@@ -1460,7 +1457,7 @@
                     "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
                     "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E-%20Communication%20Systems.pdf ",
                     "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf "
-                },
+                    },
                 "Open Elective":{
                     "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
                     "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
@@ -1472,17 +1469,18 @@
                     "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
                     "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
                     "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
-                }
-            },
+                    }
+                },
             "Board of Studies " :"https://coe.panimalar.ac.in/BOS.php ",
-            "Academic Council":"",
+            "Academic Council":""
+            },
         "Downloads":"",
         "Faculty Profile":{
             "New Faculty Registration " :"https://coe.panimalar.ac.in/Faculty_Registration.php ",
             "Faculty Profile Update " :"https://coe.panimalar.ac.in/Faculty_Data_Updation.php "
-        },
+            },
         "Student Portal " :"https://coe.panimalar.ac.in/coepec/index.php "
-    },
+        },
     "Placements " :{
         "Page":"https://panimalar.ac.in/placement.php ",
         "Panimalar Placement":"https://panimalar.ac.in/placement.php ",
@@ -1493,11 +1491,11 @@
             "Page":"https://panimalar.ac.in/placement.php ",
             "Placement Report – 2023- 2024 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2023-24.pdf ",
             "Placement Report – 2022- 2023 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2022-23.pdf ",
-            "Placement Report – 2021- 2022 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2021-22.pdf ",
-        },
+            "Placement Report – 2021- 2022 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2021-22.pdf "
+            },
         "Faculty for Recruiters":"https://panimalar.ac.in/placement.php ",
         "Features":"https://panimalar.ac.in/placement.php "
-    },
+        },
     "Research":{
         "Research Promotion Policy " :"https://panimalar.ac.in/research-policy.php ",
         "Research Team " :"https://panimalar.ac.in/research-team.php ",
@@ -1506,7 +1504,7 @@
             "Computer Science and Engineering " :"https://panimalar.ac.in/research-cse.php ",
             "Electronics and Communications Engineering " :"https://panimalar.ac.in/research-ece.php ",
             "Artificial Intelligence and Data Science " :"https://panimalar.ac.in/research-aids.php "
-        },
+            },
         "Mechanical Engineering " :"https://panimalar.ac.in/research-mechanical.php ",
         "Research Supervisors " :"https://panimalar.ac.in/research-supervisors.php ",
         "Research Scholars " :"https://panimalar.ac.in/research-scholars.php ",
@@ -1515,17 +1513,7 @@
         "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php ",
         "Seed Money " :"https://panimalar.ac.in/seed-money.php ",
         "Research Download " :"https://panimalar.ac.in/research-downloads.php "
-    },
-    "Approvals & Accreditations":{
-        "UGC Approvals":{
-            "UGC 2f & 12B Status " :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Recognition-under-Section-2f-and-12B.pdf ",
-            "Conferment of Autonomous "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Autonomous-status-letter.pdf " 
         },
-        "AICTE Approvals "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/AICTE-Approval-Details.pdf ",
-        "University Affiliation Letters "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/University-Affilation-letters.pdf ",
-        "National Board of Accreditation "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Accreditation-details-of-NBA.pdf ",
-        "Anna University – Research Centre Recognition " :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Research-centre-recognition.pdf "
-    },
     "UGC-DTBU":{
         "UGC Documents Submitted " :{
             "Page":"https://panimalar.ac.in/documents-submitted-for-the-deemed-to-be-university-application.php ",
@@ -1536,13 +1524,13 @@
                 "Current Cycle " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/4.1.NBA-Current-Cycle.pdf ",
                 "Previous First Cycle " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/4.2.NBA-Previous-First-Cycle.pdf ",
                 "Previous Second Cycle " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/4.3.NBA-Previous-Second-Cycle.pdf "
-            },
+                },
             "Multidisciplinary Programmes " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/5.Mulitidisciplinary-Programmes.pdf "
-            },
+                },
             "Sponsoring Body" :{
                 "Registered Deed " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/6-a-Registered-Deed.pdf ",
                 "Aims and Objectives " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/6-b-Aims-and-Objectives-of-the-sponsoring-body.pdf "
-            },
+                },
             "Details of other members of sponsoring body " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/7.Details-of-other-members-of-sponsoring-body.pdf ",
             "Approval of the relevant statutory bodies " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/9.Institutional-Development-Plan-IDP.pdf ",
             " Institution development plan " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/9.Institutional-Development-Plan-IDP.pdf ",
@@ -1556,7 +1544,7 @@
             "Details of academic & physical infrastructure" :{
                 "Land Document " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/17.1.Land-Document.pdf ",
                 "Build-up Area Details " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/17.1.Land-Document.pdf "
-            },
+                },
             "Fire Safety Certificate " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/18.Fire-Safety-Certificate.pdf ",
             "Barrier Free Building for Divyangjan " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/19.Divyangian-Details.pdf ",
             "Auditorium Details " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/20.Auditorium-Details.pdf ",
@@ -1569,7 +1557,7 @@
             "Gym Facility " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/27.Gym-Facility.pdf ",
             "Health Care Facility " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/27.Gym-Facility.pdf ",
             "Other common and recreational facility " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/29.Recreational-Facility.pdf "
-        },
+            },
         "Geo – Tagged Photos " :{
             "Page":"https://panimalar.ac.in/geo-tagged-photos.php ",
             "Entrance and Pathways " :"https://panimalar.ac.in/assets/pdf/ugc/Geo-Tag-Photos/1.ENTRANCE-PATHWAYS.pdf ",
@@ -1583,22 +1571,22 @@
             "Hostels Men and Women" :"https://panimalar.ac.in/assets/pdf/ugc/Geo-Tag-Photos/9.BOYS-HOSTEL-GIRLS-HOSTEL.pdf ",
             "EB and Generators Rooms " :"https://panimalar.ac.in/assets/pdf/ugc/Geo-Tag-Photos/10.EB-ROOMS-GEN-ROOMS.pdf ",
             "Others Sewage Treatment Plant, RO, Organic Farming, Solar, ATM " :"https://panimalar.ac.in/assets/pdf/ugc/Geo-Tag-Photos/11.OTHER-FACILITIES.pdf "
-        },
+            },
         "Virtual Tours of the Campus " :{
             "Page":"https://panimalar.ac.in/virtual-tour.php ",
             "Video " :"https://youtu.be/i15QqJgWHVQ "
-        },
+            },
         "Approvals & Accreditations":{
             "UGC Approvals":{
                 "UGC 2f & 12B Status " :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Recognition-under-Section-2f-and-12B.pdf ",
                 "Conferment of Autonomous "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Autonomous-status-letter.pdf " 
-            },
+                },
             "AICTE Approvals "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/AICTE-Approval-Details.pdf ",
             "University Affiliation Letters "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/University-Affilation-letters.pdf ",
             "National Board of Accreditation "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Accreditation-details-of-NBA.pdf ",
             "Anna University – Research Centre Recognition " :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Research-centre-recognition.pdf "
         
-    },
+        },
     "Admission ":{ 
         "Page":"https://panimalar.ac.in/enquiry/ ",
         "Home": "https://panimalar.ac.in/enquiry/ ",
@@ -1607,5 +1595,6 @@
         "Gallery": "https://panimalar.ac.in/enquiry/ ",
         "Contact":"https://panimalar.ac.in/enquiry/ ",
         "Apply Now":"https://panimalar.ac.in/enquiry/ "
+        }
     }
-                }
+}
