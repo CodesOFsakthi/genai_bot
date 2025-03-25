@@ -1262,6 +1262,7 @@
             },
         "Curriculum and syllabus": {
             "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
+            "Process for Developing/Revision the Program Curriculum":"https://coe.panimalar.ac.in/files/Process%20for%20Developing%20Revising%20the%20Program%20Curriculum.pdf",
             "R-2023 Batch 2024-2025": {
                 "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
                 "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2023-CSE-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
@@ -1271,7 +1272,10 @@
                 "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/R2023-AI&DS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                 "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2023-CSBS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                 "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/R2023-IT-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
-                "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf "
+                "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
+                "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CSE-Curriculum%20&%20Syllabus.pdf ",
+                "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CS-Curriculum%20&%20Syllabus.pdf ",
+                "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf "
                 },
             "R-2023 Batch 2023 – 2024 " : {
                 "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php" ,
@@ -1288,7 +1292,28 @@
                 "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf ",
                 "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%202023-24.pdf "
                 },
-            "R-2021": " https://coe.panimalar.ac.in/Syllabus.php ",
+            "R-2021": {
+                "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2021.php" ,
+                "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CSE)-Syllabus&Curriculum.pdf ",
+                "B.E -Electronics and Communication Engineering " : "https://coe.panimalar.ac.in/files/R2021-B.E(ECE)-Syllabus&Curriculum.pdf ",
+                "B.E - Mechanical Engineering ": "  https://coe.panimalar.ac.in/files/R2021-B.E(MECH)-Syllabus&Curriculum.pdf",
+                "B.E – Civil Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CIVIL)-Syllabus&Curriculam.pdf",
+                "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CCE)-Syllabus&Curriculum.pdf",
+                "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(EEE)-Syllabus&Curriculum.pdf",
+                "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/R2021-B.Tech(AI&DS)-Syllabus&Curriculum.pdf",
+                "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2021-B.Tech(CSBS)-Syllabus&Curriculum.pdf ",
+                "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech-%20Information%20Technology.pdf ",
+                "B. Tech - Artificial Intelligence and Machine Learning":"https://coe.panimalar.ac.in/files/R2021-B.Tech(AI&ML)-Syllabus&Curriculum.pdf",
+                "Mandatory Courses (B.E./B.Tech)":"https://coe.panimalar.ac.in/files/MandatoryCourses%20-Syllabus.pdf",
+                "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20CSE%20-%20Regulation%202021%20-%20Curriculum%20&%20Syllabus.pdf ",
+                "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E%20CS%20-%20Regulation%202021%20-%20Curriculum%20&%20Syllabus.pdf ",
+                "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2021-M.B.A-Syllabus&Curriculum.pdf ",
+                "Open Elective":{
+                    "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20EEE-Curriculum%20&%20Syllabus-OpenElectives.pdf",
+                    "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20MECH-Curriculum%20&%20Syllabus-OpenElectives.pdf",
+                    "B.E/B.Tech - (CSE,CCE,CSBS,AI&DS & IT)":"https://coe.panimalar.ac.in/files/OPEN%20ELECTIVES%20(CSE,CCE,CSBS,AI&DS,IT)-2021.pdf"
+                    }
+                },
             "R-2017": {
                 "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2017.php ",
                 "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
@@ -1303,19 +1328,19 @@
                 "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech-%20Information%20Technology.pdf ",
                 "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
                 "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E-%20Communication%20Systems.pdf ",
-                "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf "
-                },
-            "Open Elective":{
-                "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
-                "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
-                "B.E – Electronics Instrumentation Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Electronics%20and%20Instrumentation%20-%20Open%20Elective.pdf ",
-                "B.E – Civil Engineering ": " https://coe.panimalar.ac.in/files/B.E%20-%20Civil%20Engineering%20-%20Open%20Elective.pdf ",
-                "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
-                "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.-%20Mechanical%20Engineering-%20Open%20Elective.pdf ",
-                "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Electrical%20and%20Electronics%20Engineering%20-%20Open%20Elective.pdf ",
-                "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
-                "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
-                "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
+                "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf ",
+                "Open Elective":{
+                    "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
+                    "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
+                    "B.E – Electronics Instrumentation Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Electronics%20and%20Instrumentation%20-%20Open%20Elective.pdf ",
+                    "B.E – Civil Engineering ": " https://coe.panimalar.ac.in/files/B.E%20-%20Civil%20Engineering%20-%20Open%20Elective.pdf ",
+                    "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
+                    "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.-%20Mechanical%20Engineering-%20Open%20Elective.pdf ",
+                    "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Electrical%20and%20Electronics%20Engineering%20-%20Open%20Elective.pdf ",
+                    "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
+                    "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
+                    "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
+                    }
                 }
             },
         "Committees": " https://panimalar.ac.in/committee.php ",
@@ -1419,6 +1444,7 @@
                 },
             "Curriculum and syllabus": {
                 "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
+                "Process for Developing/Revision the Program Curriculum":"https://coe.panimalar.ac.in/files/Process%20for%20Developing%20Revising%20the%20Program%20Curriculum.pdf",
                 "R-2023 Batch 2024-2025": {
                     "Page":" https://coe.panimalar.ac.in/Syllabus.php ",
                     "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2023-CSE-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
@@ -1428,10 +1454,13 @@
                     "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/R2023-AI&DS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                     "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2023-CSBS-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
                     "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/R2023-IT-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
-                    "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf "
+                    "B. Tech - Artificial Intelligence and Machine Learning " : " https://coe.panimalar.ac.in/files/R2023-AIML-Curriculum%20&%20Syllabus%20Batch%202024-2025.pdf ",
+                    "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CSE-Curriculum%20&%20Syllabus.pdf ",
+                    "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/R2023-M.E.%20CS-Curriculum%20&%20Syllabus.pdf ",
+                    "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf "
                     },
                 "R-2023 Batch 2023 – 2024 " : {
-                    "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php", 
+                    "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php" ,
                     "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2023-CSE-Curriculum%20&%20Syllabus.pdf ",
                     "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2023_Batch_2023-2024.php ",
                     "B.E - Mechanical Engineering ": "  https://coe.panimalar.ac.in/files/R2023-MECH-Curriculum%20&%20Syllabus.pdf ",
@@ -1445,7 +1474,28 @@
                     "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2023-MBA-Curriculum%20&%20Syllabus.pdf ",
                     "Mandatory Courses B.E/B.Tech " : " https://coe.panimalar.ac.in/files/R2023-MC%20Courses%202023-24.pdf "
                     },
-                "R-2021": " https://coe.panimalar.ac.in/Syllabus.php ",
+                "R-2021": {
+                    "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2021.php" ,
+                    "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CSE)-Syllabus&Curriculum.pdf ",
+                    "B.E -Electronics and Communication Engineering " : "https://coe.panimalar.ac.in/files/R2021-B.E(ECE)-Syllabus&Curriculum.pdf ",
+                    "B.E - Mechanical Engineering ": "  https://coe.panimalar.ac.in/files/R2021-B.E(MECH)-Syllabus&Curriculum.pdf",
+                    "B.E – Civil Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CIVIL)-Syllabus&Curriculam.pdf",
+                    "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(CCE)-Syllabus&Curriculum.pdf",
+                    "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/R2021-B.E(EEE)-Syllabus&Curriculum.pdf",
+                    "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/R2021-B.Tech(AI&DS)-Syllabus&Curriculum.pdf",
+                    "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/R2021-B.Tech(CSBS)-Syllabus&Curriculum.pdf ",
+                    "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech-%20Information%20Technology.pdf ",
+                    "B. Tech - Artificial Intelligence and Machine Learning":"https://coe.panimalar.ac.in/files/R2021-B.Tech(AI&ML)-Syllabus&Curriculum.pdf",
+                    "Mandatory Courses (B.E./B.Tech)":"https://coe.panimalar.ac.in/files/MandatoryCourses%20-Syllabus.pdf",
+                    "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20CSE%20-%20Regulation%202021%20-%20Curriculum%20&%20Syllabus.pdf ",
+                    "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E%20CS%20-%20Regulation%202021%20-%20Curriculum%20&%20Syllabus.pdf ",
+                    "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/R2021-M.B.A-Syllabus&Curriculum.pdf ",
+                    "Open Elective":{
+                        "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20EEE-Curriculum%20&%20Syllabus-OpenElectives.pdf",
+                        "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20MECH-Curriculum%20&%20Syllabus-OpenElectives.pdf",
+                        "B.E/B.Tech - (CSE,CCE,CSBS,AI&DS & IT)":"https://coe.panimalar.ac.in/files/OPEN%20ELECTIVES%20(CSE,CCE,CSBS,AI&DS,IT)-2021.pdf"
+                        }
+                    },
                 "R-2017": {
                     "Page":" https://coe.panimalar.ac.in/Curriculam_Syllabus_Regulation_2017.php ",
                     "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
@@ -1460,19 +1510,19 @@
                     "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech-%20Information%20Technology.pdf ",
                     "M.E - Computer Science Engineering " : " https://coe.panimalar.ac.in/files/M.E%20-%20Computer%20Science%20and%20Engineering.pdf ",
                     "M.E – Communication Systems " : " https://coe.panimalar.ac.in/files/M.E-%20Communication%20Systems.pdf ",
-                    "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf "
-                    },
-                "Open Elective":{
-                    "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
-                    "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
-                    "B.E – Electronics Instrumentation Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Electronics%20and%20Instrumentation%20-%20Open%20Elective.pdf ",
-                    "B.E – Civil Engineering ": " https://coe.panimalar.ac.in/files/B.E%20-%20Civil%20Engineering%20-%20Open%20Elective.pdf ",
-                    "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
-                    "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.-%20Mechanical%20Engineering-%20Open%20Elective.pdf ",
-                    "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Electrical%20and%20Electronics%20Engineering%20-%20Open%20Elective.pdf ",
-                    "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
-                    "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
-                    "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
+                    "Master of Business Administration MBA " : " https://coe.panimalar.ac.in/files/Master%20of%20Business%20Administration.pdf ",
+                    "Open Elective":{
+                        "B.E- Computer Science and Engineering " : " https://coe.panimalar.ac.in/files/B.E.%20Computer%20Science%20and%20Engineering%20-%20Open%20Elective.pdf ",
+                        "B.E -Electronics and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
+                        "B.E – Electronics Instrumentation Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Electronics%20and%20Instrumentation%20-%20Open%20Elective.pdf ",
+                        "B.E – Civil Engineering ": " https://coe.panimalar.ac.in/files/B.E%20-%20Civil%20Engineering%20-%20Open%20Elective.pdf ",
+                        "B.E – Computer and Communication Engineering " : " https://coe.panimalar.ac.in/files/B.E%20-%20Computer%20and%20Communication%20Engineering%20-%20Open%20Elective.pdf ",
+                        "B.E - Mechanical Engineering " : " https://coe.panimalar.ac.in/files/B.E.-%20Mechanical%20Engineering-%20Open%20Elective.pdf ",
+                        "B.E – Electrical and Electronics Engineering " : " https://coe.panimalar.ac.in/files/B.E-%20Electrical%20and%20Electronics%20Engineering%20-%20Open%20Elective.pdf ",
+                        "B. Tech - Artificial Intelligence and Data Science " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Artificial%20Intelligence%20and%20Data%20Science%20-%20Open%20Elective.pdf  ",
+                        "B. Tech – Computer Science and Business Systems " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Computer%20Science%20and%20Business%20Systems%20-%20Open%20Elective.pdf ",
+                        "B. Tech – Information Technology " : " https://coe.panimalar.ac.in/files/B.Tech%20-%20Informnation%20Technology%20-%20Open%20Elective.pdf "
+                        }
                     }
                 },
             "Board of Studies " :"https://coe.panimalar.ac.in/BOS.php ",
@@ -1486,16 +1536,20 @@
             }
         },
     "Placements " :{
-        "Page":"https://panimalar.ac.in/placement.php ",
         "Panimalar Placement":"https://panimalar.ac.in/placement.php ",
         "Placement Director":"https://panimalar.ac.in/placement.php ",
         "Premium Recruiters":"https://panimalar.ac.in/placement.php ",
-        "Training Activity":"https://panimalar.ac.in/placement.php ",
+        "Training Activity":{
+            "Page":"https://panimalar.ac.in/placement.php ",
+            "Students Testimonial":"https://panimalar.ac.in/assets/pdf/placements/students-testimonial.pdf"
+            },
         "Placement Record" :{
             "Page":"https://panimalar.ac.in/placement.php ",
             "Placement Report – 2023- 2024 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2023-24.pdf ",
             "Placement Report – 2022- 2023 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2022-23.pdf ",
-            "Placement Report – 2021- 2022 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2021-22.pdf "
+            "Placement Report – 2021- 2022 " :"https://panimalar.ac.in/assets/pdf/placements/Placement-Report-2021-22.pdf ",
+            "Placement Report – 2020- 2021" : "https://panimalar.ac.in/assets/pdf/placements/report/Placement-Report-2020-21.pdf",
+            "Placement Report – 2021- 2022":"https://panimalar.ac.in/assets/pdf/placements/report/Placement-Report-2019-20.pdf"
             },
         "Faculty for Recruiters":"https://panimalar.ac.in/placement.php ",
         "Features":"https://panimalar.ac.in/placement.php "
@@ -1507,16 +1561,22 @@
             "Page":"https://panimalar.ac.in/research-centres.php ",
             "Computer Science and Engineering " :"https://panimalar.ac.in/research-cse.php ",
             "Electronics and Communications Engineering " :"https://panimalar.ac.in/research-ece.php ",
-            "Artificial Intelligence and Data Science " :"https://panimalar.ac.in/research-aids.php "
+            "Artificial Intelligence and Data Science " :"https://panimalar.ac.in/research-aids.php ",
+            "Mechanical Engineering":"https://panimalar.ac.in/research-mechanical.php"
             },
-        "Mechanical Engineering " :"https://panimalar.ac.in/research-mechanical.php ",
         "Research Supervisors " :"https://panimalar.ac.in/research-supervisors.php ",
         "Research Scholars " :"https://panimalar.ac.in/research-scholars.php ",
+        "H - Index":"https://panimalar.ac.in/h-index.php",
         "Research Statistics " :"https://panimalar.ac.in/research-statistics.php ",
         "Research Funding " :"https://panimalar.ac.in/research-funds.php ",
         "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php ",
         "Seed Money " :"https://panimalar.ac.in/seed-money.php ",
-        "Research Download " :"https://panimalar.ac.in/research-downloads.php "
+        "Research Download " :{
+            "Page":"https://panimalar.ac.in/research-downloads.php ",
+            "Form-1 Requisition Form":"https://panimalar.ac.in/assets/pdf/research/Form-1-REQUISITION-FORM.pdf",
+            "Form-2 Course Work Enrollment":"https://panimalar.ac.in/assets/pdf/research/Form-2-PhD-CourseWorkRegistrationForm.pdf",
+            "Form-3 Progress Report":"https://panimalar.ac.in/assets/pdf/research/Form-3-SEMESTER-PROGRESS-REPORT.pdf"
+            }
         },
     "Facilities":{
         "Library":{
@@ -1613,7 +1673,60 @@
         "Green Campus":"https://panimalar.ac.in/green-campus.php",
         "Examination Facilities":"https://coe.panimalar.ac.in/Examination_Facility.php",
         "University Offices - Identified":"https://panimalar.ac.in/assets/pdf/facilities/University-Building-Proposed.pdf",
-        "Infrastructures":"https://panimalar.ac.in/infrastructures.php",
+        "Infrastructures":{
+            "Page":"https://panimalar.ac.in/infrastructures.php",
+            "B.E - Computer Science and Engineering":"",
+            "B.E – Electronics and Communications Engineering":{
+                "Page":"https://panimalar.ac.in/ece-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/ece-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/ece-laboratory.php"
+                },
+            "B.E – Electrical and Electronics Engineering":{
+                "Page":"https://panimalar.ac.in/eee-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/eee-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/eee-laboratory.php"
+                },
+            "B.E - Mechanical Engineering":{
+                "Page":"https://panimalar.ac.in/mechanical-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/mechanical-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/mechanical-laboratory.php"
+                },
+            "B. Tech -Computer Science and Business Systems":{
+                "Page":"https://panimalar.ac.in/csbs-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/csbs-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/csbs-laboratory.php"
+                },
+            "B. Tech – Information Technology":{
+                "Page":"https://panimalar.ac.in/btech-it-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/btech-it-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/btech-it-laboratory.php"
+                },
+            "B. Tech - Artificial Intelligence and Data Science":{
+                "Page":"https://panimalar.ac.in/aids-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/aids-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/aids-laboratory.php"
+                },
+            "B. Tech - Artificial Intelligence and Machine Learning":{
+                "Page":"https://panimalar.ac.in/aiml-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/aiml-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/aiml-laboratory.php"
+                },
+            "M.E - Computer Science and Engineering":{
+                "Page":"https://panimalar.ac.in/cse-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/cse-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/cse-laboratory.php"
+                },
+            "M.E – Communication Systems":{
+                "Page":"https://panimalar.ac.in/ece-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/ece-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/ece-laboratory.php"
+                },
+            "Master of Business Administration MBA":{
+                "Page":"https://panimalar.ac.in/mba-laboratory.php",
+                "Laboratory Infrstructure":"https://panimalar.ac.in/mba-laboratory.php",
+                "Academic Facilities":"https://panimalar.ac.in/mba-laboratory.php"
+                }
+            },
         "University Building - Proposed":"https://panimalar.ac.in/assets/pdf/facilities/University-Building-Proposed.pdf",
         "IT Infrastructure":"https://panimalar.ac.in/it-infrastructure.php",
         "Transport":"https://panimalar.ac.in/transport.php",
@@ -1634,8 +1747,7 @@
                 "Previous First Cycle " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/4.2.NBA-Previous-First-Cycle.pdf ",
                 "Previous Second Cycle " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/4.3.NBA-Previous-Second-Cycle.pdf "
                 },
-            "Multidisciplinary Programmes " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/5.Mulitidisciplinary-Programmes.pdf "
-                },
+            "Multidisciplinary Programmes " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/5.Mulitidisciplinary-Programmes.pdf ",
             "Sponsoring Body" :{
                 "Registered Deed " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/6-a-Registered-Deed.pdf ",
                 "Aims and Objectives " :"https://panimalar.ac.in/assets/pdf/ugc/UGC-Documents/6-b-Aims-and-Objectives-of-the-sponsoring-body.pdf "
@@ -1695,6 +1807,7 @@
             "National Board of Accreditation "  :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Accreditation-details-of-NBA.pdf ",
             "Anna University – Research Centre Recognition " :"https://panimalar.ac.in/assets/pdf/ugc/Approvals-and-Accreditation/Research-centre-recognition.pdf "
         
+            }
         },
     "Admission ":{ 
         "Page":"https://panimalar.ac.in/enquiry/ ",
