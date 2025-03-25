@@ -17,30 +17,30 @@
             },
     	"Rules and Regulations": {
             "Page":" https://panimalar.ac.in/rules-regulations.php ",
-            "College Timing": "",
-            "Dress Code":"",
-    	    "Academic Activity": "",
-            "Leave Regulations": ""
+            "College Timing": "https://panimalar.ac.in/rules-regulations.php",
+            "Dress Code":"https://panimalar.ac.in/rules-regulations.php",
+    	    "Academic Activity": "https://panimalar.ac.in/rules-regulations.php",
+            "Leave Regulations": "https://panimalar.ac.in/rules-regulations.php"
             },
         "Corporate and International Relations" : {
             "Page":" https://panimalar.ac.in/corporate-and-international-relations.php ",
-            "Corporate and International Relations":"",
-            "Indian Space Research Organization – NAFED ":"",
-            "Swacch Awards ":"",
-            "INDYWOOD Educational Awards ":"",
-            "Partnership with International University":"",
-            "Blockchain and IOT conference":"",
-            "Man, Machine, Materials & Management Conference":"",
-            "Institution’s Innovation Council":"",
-            "SISA Awards":"",
-            "OORUNI Awards":"",
-            "SHARP HR Conference":"",
-            "CHROMA HR Imagery":"",
-            "WORLD HUMNITARIAN DRIVE":"",
-            "CiO KLUB":"",
-            "SCIENCE BAZAAR & PECTEAM 2K20":"",
-            "Marathon Partnered with Schnieder":"",
-            "World Space Week at ISRO":""
+            "Corporate and International Relations":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Indian Space Research Organization – NAFED ":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Swacch Awards ":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "INDYWOOD Educational Awards ":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Partnership with International University":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Blockchain and IOT conference":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Man, Machine, Materials & Management Conference":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Institution’s Innovation Council":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "SISA Awards":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "OORUNI Awards":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "SHARP HR Conference":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "CHROMA HR Imagery":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "WORLD HUMNITARIAN DRIVE":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "CiO KLUB":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "SCIENCE BAZAAR & PECTEAM":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "Marathon Partnered with Schnieder":"https://panimalar.ac.in/corporate-and-international-relations.php",
+            "World Space Week at ISRO":"https://panimalar.ac.in/corporate-and-international-relations.php"
             },
         "Jaisakthi Educational Trust – Other Institutes":{
             "Panimalar Medical College Hospital and Research Institute ": "https://pmchri.ac.in/ ",
@@ -236,14 +236,14 @@
                             "2023-2024 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_23_24.pdf ",
                             "2022-2023 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_22_23.pdf ",
                             "2021-2022 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_21_22.pdf "
-                            },
-                        "Patents":"https://panimalar.ac.in/cse-research-and-development.php ",
-                        "Copyrights":"https://panimalar.ac.in/cse-research-and-development.php ",
-                        "Research Projects":{
-                            "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
-                            "Funded Research " :"https://panimalar.ac.in/research-funds.php ",
-                            "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php "
                             }
+                        },
+                    "Patents":"https://panimalar.ac.in/cse-research-and-development.php ",
+                    "Copyrights":"https://panimalar.ac.in/cse-research-and-development.php ",
+                    "Research Projects":{
+                        "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                        "Funded Research " :"https://panimalar.ac.in/research-funds.php ",
+                        "Consultancy Project " :"https://panimalar.ac.in/consultancy-projects.php "
                         }
                     },
                 "Facilities ":{
@@ -1386,6 +1386,10 @@
         "PEC Home " :"https://panimalar.ac.in/ ",
         "Home " :"https://coe.panimalar.ac.in/index.php ",
         "Announcements " :"https://coe.panimalar.ac.in/Announcements.php ",
+        "Exam Facalities":{
+            "Organization Structure":"https://coe.panimalar.ac.in/Organization_Structure.php",
+            "Infrastructure":"https://coe.panimalar.ac.in/Examination_Facility.php"
+            },
         "Leadership " :{
             "Page":"https://coe.panimalar.ac.in/# ",
             "Management Team " :{
@@ -1472,14 +1476,14 @@
                     }
                 },
             "Board of Studies " :"https://coe.panimalar.ac.in/BOS.php ",
-            "Academic Council":""
+            "Academic Council":"https://coe.panimalar.ac.in/Academic_Council.php"
             },
-        "Downloads":"",
-        "Faculty Profile":{
-            "New Faculty Registration " :"https://coe.panimalar.ac.in/Faculty_Registration.php ",
-            "Faculty Profile Update " :"https://coe.panimalar.ac.in/Faculty_Data_Updation.php "
-            },
-        "Student Portal " :"https://coe.panimalar.ac.in/coepec/index.php "
+        "Continous Assessment":"https://coe.panimalar.ac.in/Question.php",
+        "Student Corner":{
+            "Login " :"https://coe.panimalar.ac.in/coepec/index.php ",
+            "Announcements": "https://coe.panimalar.ac.in/Announcements.php",
+            "Downloads":"https://coe.panimalar.ac.in/download.php"
+            }
         },
     "Placements " :{
         "Page":"https://panimalar.ac.in/placement.php ",
@@ -1514,6 +1518,111 @@
         "Seed Money " :"https://panimalar.ac.in/seed-money.php ",
         "Research Download " :"https://panimalar.ac.in/research-downloads.php "
         },
+    "Facilities":{
+        "Library":{
+            "Page":{
+                "Panimalar Central Library":"https://panimalar.ac.in/library.php",
+                "Pictography":"https://panimalar.ac.in/library.php",
+                "Periodicals":"https://panimalar.ac.in/library.php",
+                "Books":"https://panimalar.ac.in/library.php",
+                "Renewals":"https://panimalar.ac.in/library.php",
+                "Facilities":"https://panimalar.ac.in/library.php",
+                "Rules and Regulations":"https://panimalar.ac.in/library.php",
+                "Future Plans for Library":"https://panimalar.ac.in/library.php",
+                "Digital Library":"https://panimalar.ac.in/library.php",
+                "Remote Access Resources":"https://panimalar.ac.in/library.php",
+                "Internet & Intranet":"https://panimalar.ac.in/library.php",
+                "Features":"https://panimalar.ac.in/library.php"
+                },
+            "Central Library - 1":{
+                "Page":"https://panimalar.ac.in/central-library-I.php",
+                "Panimalar Central Library - I":"https://panimalar.ac.in/central-library-I.php",
+                "Pictography":"https://panimalar.ac.in/central-library-I.php",
+                "Periodicals":"https://panimalar.ac.in/central-library-I.php",
+                "Books":"https://panimalar.ac.in/central-library-I.php",
+                "Renewals":"https://panimalar.ac.in/central-library-I.php",
+                "Facilities":"https://panimalar.ac.in/central-library-I.php",
+                "Rules and Regulations":"https://panimalar.ac.in/central-library-I.php",
+                "Future Plans for Library":"https://panimalar.ac.in/central-library-I.php",
+                "Digital Library":"https://panimalar.ac.in/central-library-I.php",
+                "Remote Access Resources":"https://panimalar.ac.in/central-library-I.php",
+                "Internet & Intranet":"https://panimalar.ac.in/central-library-I.php",
+                "Features":"https://panimalar.ac.in/central-library-I.php"
+            },
+            "Central Library - II":{
+                "Page":"https://panimalar.ac.in/central-library-II.php",
+                "Panimalar Central Library - II":"https://panimalar.ac.in/central-library-II.php",
+                "Pictography":"https://panimalar.ac.in/central-library-II.php",
+                "Periodicals":"https://panimalar.ac.in/central-library-II.php",
+                "Books":"https://panimalar.ac.in/central-library-II.php",
+                "Renewals":"https://panimalar.ac.in/central-library-II.php",
+                "Facilities":"https://panimalar.ac.in/central-library-II.php",
+                "Rules and Regulations":"https://panimalar.ac.in/central-library-II.php",
+                "Future Plans for Library":"https://panimalar.ac.in/central-library-II.php",
+                "Digital Library":"https://panimalar.ac.in/central-library-II.php",
+                "Remote Access Resources":"https://panimalar.ac.in/central-library-II.php",
+                "Internet & Intranet":"https://panimalar.ac.in/central-library-II.php",
+                "Features":"https://panimalar.ac.in/central-library-II.php"
+            },
+            "IT- I Year Library":{
+                "Page":"https://panimalar.ac.in/it-first-year-library.php",
+                "Pictography":"https://panimalar.ac.in/it-first-year-library.php",
+                "Periodicals":"https://panimalar.ac.in/it-first-year-library.php",
+                "Books":"https://panimalar.ac.in/it-first-year-library.php",
+                "Renewals":"https://panimalar.ac.in/it-first-year-library.php",
+                "Facilities":"https://panimalar.ac.in/it-first-year-library.php",
+                "Rules and Regulations":"https://panimalar.ac.in/it-first-year-library.php",
+                "Digital Library":"https://panimalar.ac.in/it-first-year-library.php",
+                "Remote Access Resources":"https://panimalar.ac.in/it-first-year-library.php",
+                "Internet & Intranet":"https://panimalar.ac.in/it-first-year-library.php",
+                "Features":"https://panimalar.ac.in/it-first-year-library.php"
+            },
+            "P.G Library (MBA)":{
+                "Page":"https://panimalar.ac.in/pg-mba-library.php",
+                "Pictography":"https://panimalar.ac.in/pg-mba-library.php",
+                "Periodicals":"https://panimalar.ac.in/pg-mba-library.php",
+                "Books":"https://panimalar.ac.in/pg-mba-library.php",
+                "Renewals":"https://panimalar.ac.in/pg-mba-library.php",
+                "Facilities":"https://panimalar.ac.in/pg-mba-library.php",
+                "Rules and Regulations":"https://panimalar.ac.in/pg-mba-library.php",
+                "Digital Library":"https://panimalar.ac.in/pg-mba-library.php",
+                "Remote Access Resources":"https://panimalar.ac.in/pg-mba-library.php",
+                "Internet & Intranet":"https://panimalar.ac.in/pg-mba-library.php",
+                "Features":"https://panimalar.ac.in/pg-mba-library.php"
+            },
+            "Department Library":{
+                "Page":"https://panimalar.ac.in/department-library.php",
+                "Dept. of CSE":"https://panimalar.ac.in/department-library.php",
+                "Dept. of ECE":"https://panimalar.ac.in/department-library.php",
+                "Dept. of EEE":"https://panimalar.ac.in/department-library.php",
+                "Dept. of Mech":"https://panimalar.ac.in/department-library.php",
+                "Dept. of AI&DS":"https://panimalar.ac.in/department-library.php",
+                "Dept. of AI&ML":"https://panimalar.ac.in/department-library.php",
+                "Dept. of CSBS":"https://panimalar.ac.in/department-library.php",
+                "Dept. of ME - CSE":"https://panimalar.ac.in/department-library.php",
+                "Dept. of ME - CS":"https://panimalar.ac.in/department-library.php"
+            },
+            "Digital Library":{
+                "Page": "https://panimalar.ac.in/digital-library.php",
+                "E- Resources":"https://panimalar.ac.in/digital-library.php",
+                "Remote Access Resources":"https://panimalar.ac.in/digital-library.php",
+                "Internet & Intranet":"https://panimalar.ac.in/digital-library.php"
+            }
+            
+        },
+        "Green Campus":"https://panimalar.ac.in/green-campus.php",
+        "Examination Facilities":"https://coe.panimalar.ac.in/Examination_Facility.php",
+        "University Offices - Identified":"https://panimalar.ac.in/assets/pdf/facilities/University-Building-Proposed.pdf",
+        "Infrastructures":"https://panimalar.ac.in/infrastructures.php",
+        "University Building - Proposed":"https://panimalar.ac.in/assets/pdf/facilities/University-Building-Proposed.pdf",
+        "IT Infrastructure":"https://panimalar.ac.in/it-infrastructure.php",
+        "Transport":"https://panimalar.ac.in/transport.php",
+        "Mess":"https://panimalar.ac.in/mess.php",
+        "Sports":"https://panimalar.ac.in/sports.php",
+        "Hostel":"https://panimalar.ac.in/hostel.php",
+        "ATM Facilities":"https://panimalar.ac.in/atm-facilities.php",
+        "Treatment Plants":"https://panimalar.ac.in/water-sewage-treatment-plant.php"
+    },
     "UGC-DTBU":{
         "UGC Documents Submitted " :{
             "Page":"https://panimalar.ac.in/documents-submitted-for-the-deemed-to-be-university-application.php ",
