@@ -65,20 +65,14 @@
                 "Milestones":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "Professional Society":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php",
-                    "Programs Participated":{
-                    "2018 – 2019": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-18-19.pdf ",
-                    "2019 – 2020": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-19-20.pdf ",
-                    "2020 – 2021": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-20-21.pdf ",
-                    "2021 – 2022": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Students-Participation-21-22.pdf "
-                        },
-                    "Programs Organized":{
-                        "2023 – 2024": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2023-2024.pdf",
-                        "2023 – 2022": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2022-2023.pdf ",
-                        "2021 – 2022": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2021-2022.pdf ",
-                        "2020 – 2021": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2020-2021.pdf ",
-                        "2019 – 2020": " https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2019-2020.pdf ",
-                        "2018 – 2019": "https://panimalar.ac.in/assets/pdf/cse/cocurricular/CSE-Organized-2018-2019.pdf "
-                        }
+                    "Events Organized":{
+                        "2024 - 2025":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2024-2025.pdf",
+                        "2023 - 2024":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2023-2024.pdf",
+                        "2022 - 2023":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2022-2023.pdf",
+                        "2021 - 2022":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2021-2022.pdf",
+                        "2020 - 2021":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2020-2021.pdf",
+                        "2019 - 2020":"https://panimalar.ac.in/assets/pdf/cse/professional-society/CSE-Organized-2019-2020.pdf"
+                    }
                     },
                 "Clubs":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
@@ -107,12 +101,26 @@
                         },
                     "App Arena– App development Club":"https://panimalar.ac.in/be-computer-science-and-engineering.php "
                     },
-                "Events":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
-                "NPTEL Programme":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
+                "Events":{
+                    "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
+                    "Event Participated":{
+                        "2023 - 2024":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-23-24.pdf",
+                        "2022 - 2023":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-22-23.pdf",
+                        "2021 - 2022":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-21-22.pdf",
+                        "2020 - 2021":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-20-21.pdf",
+                        "2019 - 2020":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-19-20.pdf",
+                        "2018 - 2019":"https://panimalar.ac.in/assets/pdf/cse/events/CSE-Students-Participation-18-19.pdf"
+                        }
+                    },
+                "FDP / STTP":{
+                    "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php",
+                    "List of FDP/STTP,Workshop Details 2019 - 2024":"https://panimalar.ac.in/assets/pdf/cse/FDP-2019-2024.pdf"
+                    },
                 "ATAL FDP":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "Newsletter and Magazines":{
                     "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                     "Newsletter":{
+                        "2024 - 2025 Issue 1":"https://panimalar.ac.in/assets/pdf/cse/newsletter/newsletter-2024-25-Issue-1.pdf",
                         "2023 – 2024 Issue 1 ":"https://panimalar.ac.in/assets/pdf/cse/newsletter/newsletter-2023-24-Issue-1.pdf ",
                         "2023 – 2024 Issue 2 ":"https://panimalar.ac.in/assets/pdf/cse/newsletter/newsletter-2023-24-Issue-2.pdf ",
                         "2022 – 2023 Issue 1 ":" https://panimalar.ac.in/assets/pdf/cse/newsletter/news-letter-2022-2023-issue1.pdf ",
@@ -153,6 +161,16 @@
                         "Database Management Systems Laboratory - 23CS1312": " https://sites.google.com/view/23cs1312dbmslab/syllabus ",
                         "Object Oriented Programming Laboratory - 23IT1311": " https://sites.google.com/view/23it1311-oopslab/home "
                         },
+                    "II YR/IV":{
+                        "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php",
+                        "Probablility and Statistical Methods":"https://sites.google.com/view/pecpsm/home",
+                        "Operating Systems":"https://sites.google.com/view/23it1403os/home",
+                        "Object Oriented Software Engineering":"https://sites.google.com/view/23it1401-oose/home",
+                        "Computational Thinking":"https://sites.google.com/view/23cs1402-comthink",
+                        "Foundation of Data Science":"https://sites.google.com/view/foundationsofdatascience/home",
+                        "Computer Networks & Computer Networks Laboratory":"https://sites.google.com/view/23cs1401-computernetworks/home",
+                        "Foundation of Data Science Laboratory":"https://sites.google.com/view/23ad1413-foundations-of-data-s/home"
+                    },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "Theory of Computation - 21CS1503" :" https://sites.google.com/view/peccsetoc ",
@@ -164,6 +182,17 @@
                         "Augmented Reality/Virtual Reality - 21CS1908" :" https://sites.google.com/view/21cs1908-ar-vr?usp=sharing ",
                         "Internet Programming Lab - 21CS1511": " https://sites.google.com/view/internet-programming-lab/home "
                         },
+                    "III YR/ VI SEM":{
+                        "Cloud Computing and Big Data Technologies":"https://sites.google.com/panimalar.ac.in/21cs1601-cloudandbigdata?usp=sharing",
+                        "Artificial Inteligence and Machine Learning":"https://sites.google.com/view/peccseaiml",
+                        "Compiler Design (Lab Integrated)":"http://sites.google.com/view/peccsecd",
+                        "Digital and Mobile Forensics":"https://sites.google.com/view/digital-and-mobile-forensics",
+                        "Multimedia and Animation ":"https://sites.google.com/view/21cs1909-multimedia-and-animat?usp=sharing",
+                        "App Development":"https://sites.google.com/view/21it1902-appdeveloment/home",
+                        "Hospital Management":"https://sites.google.com/view/21ge1003-hospital-management?usp=sharing",
+                        "Cloud computing and Big Data Technologies Laboratory":"https://sites.google.com/panimalar.ac.in/21cs1611-cloud-comp-bigdata?usp=sharing",
+                        "Artificial Inteligence and Machine Learning Laboratory":"https://sites.google.com/view/peccseaiml/aiml-lab-manual?authuser=0"
+                    },
                     "IV YR/ VII SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                         "Cryptography and Network Security - 21CS1701" : " https://sites.google.com/view/peccns?usp=sharing ",
