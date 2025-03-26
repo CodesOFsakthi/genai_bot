@@ -163,13 +163,13 @@
                         },
                     "II YR/IV":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php",
-                        "Probablility and Statistical Methods":"https://sites.google.com/view/pecpsm/home",
-                        "Operating Systems":"https://sites.google.com/view/23it1403os/home",
-                        "Object Oriented Software Engineering":"https://sites.google.com/view/23it1401-oose/home",
-                        "Computational Thinking":"https://sites.google.com/view/23cs1402-comthink",
-                        "Foundation of Data Science":"https://sites.google.com/view/foundationsofdatascience/home",
-                        "Computer Networks & Computer Networks Laboratory":"https://sites.google.com/view/23cs1401-computernetworks/home",
-                        "Foundation of Data Science Laboratory":"https://sites.google.com/view/23ad1413-foundations-of-data-s/home"
+                        "Probablility and Statistical Methods 23MA1401":"https://sites.google.com/view/pecpsm/home",
+                        "Operating Systems 23IT1403":"https://sites.google.com/view/23it1403os/home",
+                        "Object Oriented Software Engineering 23IT1491":"https://sites.google.com/view/23it1401-oose/home",
+                        "Computational Thinking 23CS1402":"https://sites.google.com/view/23cs1402-comthink",
+                        "Foundation of Data Science 23AD1405":"https://sites.google.com/view/foundationsofdatascience/home",
+                        "Computer Networks & Computer Networks Laboratory 23CS1401 & 23CS1411":"https://sites.google.com/view/23cs1401-computernetworks/home",
+                        "Foundation of Data Science Laboratory 23AD1413":"https://sites.google.com/view/23ad1413-foundations-of-data-s/home"
                     },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
@@ -183,15 +183,15 @@
                         "Internet Programming Lab - 21CS1511": " https://sites.google.com/view/internet-programming-lab/home "
                         },
                     "III YR/ VI SEM":{
-                        "Cloud Computing and Big Data Technologies":"https://sites.google.com/panimalar.ac.in/21cs1601-cloudandbigdata?usp=sharing",
-                        "Artificial Inteligence and Machine Learning":"https://sites.google.com/view/peccseaiml",
-                        "Compiler Design (Lab Integrated)":"http://sites.google.com/view/peccsecd",
-                        "Digital and Mobile Forensics":"https://sites.google.com/view/digital-and-mobile-forensics",
-                        "Multimedia and Animation ":"https://sites.google.com/view/21cs1909-multimedia-and-animat?usp=sharing",
-                        "App Development":"https://sites.google.com/view/21it1902-appdeveloment/home",
-                        "Hospital Management":"https://sites.google.com/view/21ge1003-hospital-management?usp=sharing",
-                        "Cloud computing and Big Data Technologies Laboratory":"https://sites.google.com/panimalar.ac.in/21cs1611-cloud-comp-bigdata?usp=sharing",
-                        "Artificial Inteligence and Machine Learning Laboratory":"https://sites.google.com/view/peccseaiml/aiml-lab-manual?authuser=0"
+                        "Cloud Computing and Big Data Technologies 21CS1601":"https://sites.google.com/panimalar.ac.in/21cs1601-cloudandbigdata?usp=sharing",
+                        "Artificial Inteligence and Machine Learning 21CS1602":"https://sites.google.com/view/peccseaiml",
+                        "Compiler Design (Lab Integrated) 21CS1603":"http://sites.google.com/view/peccsecd",
+                        "Digital and Mobile Forensics 21IT1909":"https://sites.google.com/view/digital-and-mobile-forensics",
+                        "Multimedia and Animation 21CS1909":"https://sites.google.com/view/21cs1909-multimedia-and-animat?usp=sharing",
+                        "App Development 21IT1902":"https://sites.google.com/view/21it1902-appdeveloment/home",
+                        "Hospital Management 21GE1003":"https://sites.google.com/view/21ge1003-hospital-management?usp=sharing",
+                        "Cloud computing and Big Data Technologies Laboratory 21CS1611":"https://sites.google.com/panimalar.ac.in/21cs1611-cloud-comp-bigdata?usp=sharing",
+                        "Artificial Inteligence and Machine Learning Laboratory 21CS1612":"https://sites.google.com/view/peccseaiml/aiml-lab-manual?authuser=0"
                     },
                     "IV YR/ VII SEM":{
                         "Page":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
@@ -203,8 +203,13 @@
                         "Cyber security - 21IT1915": " https://sites.google.com/view/peccsecs ",
                         "Data Science and Analytics Laboratory - 21CS1711": " https://sites.google.com/view/data-science-lab-/home ",
                         "Cryptography and Network Security Laboratory - 21CS1712" :" https://sites.google.com/view/peccsecnslab/home "
+                        },
+                    "IV YR/ VIII SEM":{
+                        "Software Testing and Automation 21IT1904":"https://sites.google.com/view/21it1904-sta",
+                        "Ethics and Artificial Intelligence 21AD1907":"https://sites.google.com/view/21ad1907-ethics-and-ai/home"
                         }
                     },
+                "Department Library":"https://panimalar.ac.in/be-computer-science-and-engineering.php",
                 "PG M.E. CSE":"https://panimalar.ac.in/be-computer-science-and-engineering.php ",
                 "Achievements " : {
                     "Page":"https://panimalar.ac.in/cse-department-achievements.php ",
@@ -213,6 +218,7 @@
                     "Students Achievements" : "https://panimalar.ac.in/cse-department-achievements.php ",
                     "Rank Holders" : {
                         "Page":"https://panimalar.ac.in/cse-department-achievements.php ",
+                        "Rank Holders 2023":"https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2023.pdf",
                         "Rank Holders 2022 ": " https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2022.pdf ",
                         "Rank Holders 2021 ": " https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2021.pdf ",
                         "Rank Holders 2020 " : "https://panimalar.ac.in/assets/pdf/cse/rank/CSE_Rank_Holders_List_2020.pdf ",
@@ -237,12 +243,14 @@
                         "Page":"https://panimalar.ac.in/cse-industry-collaboration.php ",
                         "Industrial Visit":{
                             "Page":" https://panimalar.ac.in/cse-industry-collaboration.php ",
+                            "Industrial Visit 2024-2025":"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2024-25.pdf",
                             "Industrial Visit 2023-2024 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2023-24.pdf ",
                             "Industrial Visit 2022-2023 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2022-23.pdf ",
                             "Industrial Visit 2022-2022 " :"https://panimalar.ac.in/assets/pdf/cse/iv/Industrial-Visit-2021-22.pdf "
                             },
                         "Gallery":{
                             "Page":" https://panimalar.ac.in/cse-industry-collaboration.php ",
+                            "Industrial Visit Photos 2024-2025":"https://panimalar.ac.in/assets/pdf/cse/iv/CSE-Industrial-Visit-Photos-2024-2025.pdf",
                             "Photo Gallery " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Industrial-Visit-Photos.pdf "
                             }
                         },
@@ -254,6 +262,7 @@
                         "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
                         "Faculty Conference Publications":{
                             "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                            "2024-2025":"https://panimalar.ac.in/assets/pdf/cse/research/conference/CSE-Conference-24-25.pdf",
                             "2023-2024 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_23_24.pdf ",
                             "2022-2023 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_22_23.pdf ",
                             "2021-2022 " :"https://panimalar.ac.in/assets/pdf/cse/CSE-Conference_21_22.pdf ",
@@ -262,12 +271,23 @@
                             },
                         "Journal":{
                             "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                            "2024-2025":"https://panimalar.ac.in/assets/pdf/cse/research/journal/CSE-Journal-24-25.pdf",
                             "2023-2024 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_23_24.pdf ",
                             "2022-2023 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_22_23.pdf ",
-                            "2021-2022 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_21_22.pdf "
+                            "2021-2022 ":" https://panimalar.ac.in/assets/pdf/cse/CSE-Journal__updated_21_22.pdf ",
+                            "2020-2021":"https://panimalar.ac.in/assets/pdf/cse/research/journal/CSE-Journal-20-21.pdf",
+                            "2019-2020":"https://panimalar.ac.in/assets/pdf/cse/research/journal/CSE-Journal-19-20.pdf"
                             }
                         },
-                    "Patents":"https://panimalar.ac.in/cse-research-and-development.php ",
+                    "Patents":{
+                        "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
+                        "2024-2025":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2024-25.pdf",
+                        "2023-2024":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2023-24.pdf",
+                        "2022-2023":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2022-23.pdf",
+                        "2021-2022":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2021-22.pdf",
+                        "2020-2021":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2020-21.pdf",
+                        "2019-2020":"https://panimalar.ac.in/assets/pdf/cse/research/patents/CSE-Patent-2019-20.pdf"
+                        },
                     "Copyrights":"https://panimalar.ac.in/cse-research-and-development.php ",
                     "Research Projects":{
                         "Page":"https://panimalar.ac.in/cse-research-and-development.php ",
@@ -292,12 +312,19 @@
                     },
                 "Faculty List":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Milestones":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
-                "Professional Society":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
+                "Professional Society":{
+                    "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
+                    "2024-2025":"https://panimalar.ac.in/assets/pdf/ece/professional-society/2024-2025.pdf",
+                    "2023-2024":"https://panimalar.ac.in/assets/pdf/ece/professional-society/2023-2024.pdf",
+                    "2020-2021":"https://panimalar.ac.in/assets/pdf/ece/professional-society/2020-2021.pdf",
+                    "2019-2020":"https://panimalar.ac.in/assets/pdf/ece/professional-society/2019-2020.pdf"
+                    },
                 "Clubs":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                 "Events":{
                     "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                     "Events Participated":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
+                        "Events Participated – 2024-2025":"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2024-2025.pdf",
                         "Events Participated – 2023-2024 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2023-2024.pdf ",
                         "Events Participated – 2023-2023 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2022-2023.pdf ",
                         "Events Participated – 2021-2022- List 2 " :"https://panimalar.ac.in/assets/pdf/ece/events/EVENTS-PARTICIPATED-2021-2022-list2.pdf ",
@@ -350,6 +377,18 @@
                         "Electronic Circuits and Simulation Laboratory I 23EC1311 " :"https://sites.google.com/view/ecs-lab-1/home ",
                         "Control Systems Engineering Laboratory 23EC1312 " :"https://sites.google.com/panimalar.ac.in/control-syst-eng-lab-r2023?usp=sharing "
                         },
+                    "II Yr/ IV Sem":{
+                        "Page":"https://panimalar.ac.in/be-electronics-and-communication-engineering.php",
+                        "Communication Theory 23EC1401":"https://sites.google.com/view/23ec1401-communication-theory/home",
+                        "Electronic Circuits II 23EC1402":"https://sites.google.com/view/electronic-circuits-ii/home",
+                        "Analog Integrated Circuits 23EC1403":"https://sites.google.com/panimalar.ac.in/21ec1403--aic/home",
+                        "Electromagnetic Fields 23EC1404":"https://sites.google.com/view/23ec1404-emf/home",
+                        "Principles of Data Structures 23CS1403":"https://sites.google.com/view/23cs1403/syllabus",
+                        "Electronic Circuites and Simulation Laboratory II 23EC1411":"https://sites.google.com/view/ecs-lab-2/home",
+                        "Analog and Digital Circuits Laboratory 23EC1412":"https://sites.google.com/d/1ohIwfYyUPc3AhWlnv23kNP0r4BrZJo4K/p/1ew3M0XwDVeRbEcLdS7I7in7T5OvvIocl/edit",
+                        "Principles of Data Structures Laboratory":"https://sites.google.com/view/23cs1412-principlesofdatastruc/lab-manual_1",
+                        "Coding Practice II Lab":"https://sites.google.com/view/23es1412/home"
+                    },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Analog and Digital Communication 21EC1501"  :"https://sites.google.com/view/analog-and-digital-/home ",
@@ -362,6 +401,7 @@
                         "Digital Signal Processing Laboratory 21EC1512" :"https://sites.google.com/panimalar.ac.in/dsp-lab-manual/home ",
                         "Analog and Digital Communication Laboratory 21EC1513 " :"https://sites.google.com/view/adc-lab/lab-manual "
                         },
+                    "III YR / VI SEM":{},
                     "IV YR/ VII SEM":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Embedded Systems and Robotics 21EC1701 " :"https://sites.google.com/view/embeddedsystem-and-robotics/home ",
@@ -1697,7 +1737,6 @@
                 "Remote Access Resources":"https://panimalar.ac.in/digital-library.php",
                 "Internet & Intranet":"https://panimalar.ac.in/digital-library.php"
             }
-            
         },
         "Green Campus":"https://panimalar.ac.in/green-campus.php",
         "Examination Facilities":"https://coe.panimalar.ac.in/Examination_Facility.php",
