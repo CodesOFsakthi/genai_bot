@@ -401,7 +401,16 @@
                         "Digital Signal Processing Laboratory 21EC1512" :"https://sites.google.com/panimalar.ac.in/dsp-lab-manual/home ",
                         "Analog and Digital Communication Laboratory 21EC1513 " :"https://sites.google.com/view/adc-lab/lab-manual "
                         },
-                    "III YR / VI SEM":{},
+                    "III YR / VI SEM":{
+                        "WireLess Communication 21EC1601":"",
+                        "Antenna Theory and Design 21EC1602":"",
+                        "VLSI and Chip Design 21EC1603":"",
+                        "Data Communication Networks 21EC1604":"",
+                        "Medical Electronics 21EC1922":"",
+                        "Telehealth Technology 21EC1011":"",
+                        "VLSI Design Laboratory 21EC1611":"",
+                        "Wireless Communication and Networks Laboratory":""
+                        },
                     "IV YR/ VII SEM":{
                         "Page":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
                         "Embedded Systems and Robotics 21EC1701 " :"https://sites.google.com/view/embeddedsystem-and-robotics/home ",
@@ -411,21 +420,41 @@
                         "Satellite Communication 21EC1940 " :"https://sites.google.com/view/21ec1940satellitecommunication/home ",
                         "Embedded Systems and Robotics Laboratory 21EC1711" :"https://sites.google.com/view/embedded-systems-and-robotics-?usp=sharing ",
                         "Advanced Communication Laboratory 211712":"https://sites.google.com/view/ec8761advanced-comm-lab/home "
+                        },
+                    "IV YR/ VII Sem":{
+                        "Deep Learning":"",
+                        "5G and Beyond Communication Networks":""
                         }
                     },
                 "Gallery":" https://panimalar.ac.in/be-electronics-and-communication-engineering.php ",
+                "Department Library":"",
                 "Achievements " :{
                     "Page":"https://panimalar.ac.in/ece-achievements.php ",
-                    "Faculty Achievements":"https://panimalar.ac.in/ece-achievements.php ",
-                    "Students Achievements":"https://panimalar.ac.in/ece-achievements.php ",
+                    "Faculty Achievements":{
+                        "Page":"https://panimalar.ac.in/ece-achievements.php ",
+                        "2024-2025":"",
+                        "2023-2024":"",
+                        "2022-2023":"",
+                        "2021-2022":"",
+                        "2020-2021":"",
+                        "2019-2020":""
+                        },
+                    "Students Achievements":{
+                        "Page":"https://panimalar.ac.in/ece-achievements.php ",
+                        "2024-2025":"",
+                        "2023-2024":"",
+                        "2022-2023":""
+                        },
                     "Rank Holders":"https://panimalar.ac.in/ece-achievements.php "
                     },
                 "Industry Collaboration ":{
                     "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
                     "Industry-Institute Interaction":{
                         "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
-                        "InPlant Training & Internship":{
+                        "Industrial Skills Intiative":{
                             "Page":"https://panimalar.ac.in/ece-industry-collaboration.php ",
+                            "Industrial Skills Initiative - 2024 – 2025":"",
+                            "Industrial Skills Initiative - 2023 – 2024":"",
                             "Industrial Skills Initiative - 2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2022-2023.pdf ",
                             "Industrial Skills Initiative - 2021 – 2022 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2021-2022.pdf ",
                             "Industrial Skills Initiative - 2020 – 2021 " :"https://panimalar.ac.in/assets/pdf/ece/industryinstitute/INDUSTRIAL-SKILLS-INITIATIVE-2020-2021.pdf ",
@@ -452,6 +481,7 @@
                         "Page":"https://panimalar.ac.in/ece-research.php ",
                         "Conference Publications " :{
                             "Page":"https://panimalar.ac.in/ece-research.php ",
+                            "Conference Publication – 2024-2025":"",
                             "Conference Publication – 2023-2024 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2023-2024.pdf ",
                             "Conference Publication – 2022-2023 " :" https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2022-2023.pdf ",
                             "Conference Publication – 2021-2022 " :" https://panimalar.ac.in/assets/pdf/ece/publication/CONFERENCE-PUBLICATION-2021-2022.pdf ",
@@ -460,6 +490,7 @@
                             },
                         "Journal Publication " :{
                             "Page":"https://panimalar.ac.in/ece-research.php ",
+                            "Journal Publication - 2024-2025":"",
                             "Journal Publication - 2023-2024 " :" https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2023-2024.pdf ",
                             "Journal Publication - 2022-2023 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2022-2023.pdf ",
                             "Journal Publication - 2021-2022 "  :"https://panimalar.ac.in/assets/pdf/ece/publication/JOURNALPUBLICATION-2021-2022.pdf ",
@@ -498,7 +529,14 @@
                 "Milestones" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                 "Professional Society" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                 "Clubs" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
-                "Events" :"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
+                "Events" :{
+                    "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
+                    "Events - 2023-2024":"",
+                    "Events - 2022-2023":"",
+                    "Events - 2021-2022":"",
+                    "Events - 2020-2021":"",
+                    "Events - 2019-2020":""
+                    },
                 "Newsletter and Magazine":{
                     "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                     "Newsletter":{
@@ -542,6 +580,14 @@
                         "Analog Electronics 23EE1303": " https://sites.google.com/view/analog-electronics-/home ",
                         "Signals and Systems 23EE1302" :" https://sites.google.com/view/signals-and-systems-/home "
                         },
+                    "II YR/ IV SEM":{
+                        "Numerical Methods 23MA1404":"",
+                        "Measurement and Instrumentation 23EE1401":"",
+                        "Electrical Machines I 23EE1402":"",
+                        "Transmission and Distribution 23EE1403":"",
+                        "Control Systems 23EE1404":"",
+                        "Digital Electronics 23EE1405":""
+                        },
                     "III YR/ V SEM":{
                         "Page":"https://panimalar.ac.in/be-electrical-and-electronics-engineering.php ",
                         "Power System Analysis 21EC1501": " https://sites.google.com/view/power-system-analysis-/home ",
@@ -560,8 +606,15 @@
                         "Power Quality 21EE1905" :" https://sites.google.com/view/power-quality-pq/home ",
                         "Smart System Automation 21EE1919" :" https://sites.google.com/view/smart-system-automation/home ",
                         "Testing of Electric Vehicles 21EE1927" :" https://sites.google.com/view/testing-of-electric-vehicles/home "
+                        },
+                    "IV YR/ VIII SEM":{
+                        "Neural Networks and Deep Learning 21AD1918":"",
+                        "HVDC and Facts 21EE1906":"",
+                        "Smart Farming 21EE1937":"",
+                        "Utilization and Conservation of Electrical Energy 21EE1908":""
                         }
                     },
+                "Department Library":"",
                 "Achievements " :{
                     "Page":"https://sites.google.com/view/testing-of-electric-vehicles/home ",
                     "Faculty Achievements" :"https://sites.google.com/view/testing-of-electric-vehicles/home ",
