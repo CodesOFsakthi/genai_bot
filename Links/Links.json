@@ -1184,7 +1184,8 @@
                 "About the Department" :"https://panimalar.ac.in/me-communication-systems.php ",
                 "Vision and Mission" :"https://panimalar.ac.in/me-communication-systems.php ",
                 "Prog. Edu Objectives & Outcomes" :"https://panimalar.ac.in/me-communication-systems.php ",
-                "Publications" :"https://panimalar.ac.in/me-communication-systems.php "
+                "Publications" :"https://panimalar.ac.in/me-communication-systems.php ",
+                "Department Library":""
                 },
             "Master of Business Administration MBA" :{
                 "Page":" https://panimalar.ac.in/mba.php ",
@@ -1198,19 +1199,31 @@
                     },
                 "Faculty List" :" https://panimalar.ac.in/mba.php ",
                 "Milestones" :" https://panimalar.ac.in/mba.php ",
-                "Guest Lectures" :" https://panimalar.ac.in/mba.php ",
+                "Guest Lectures" :{
+                    "Page":" https://panimalar.ac.in/mba.php ",
+                    "List of Guest Lectures 2024-2025":"",
+                    "List of Guest Lectures 2023-2024":"",
+                    "List of Guest Lectures 2022-2023":""
+                    },
                 "Professional Society" :" https://panimalar.ac.in/mba.php ",
                 "Clubs" :" https://panimalar.ac.in/mba.php ",
-                "Events" :" https://panimalar.ac.in/mba.php ",
+                "Events" :{
+                    "Page":" https://panimalar.ac.in/mba.php ",
+                    "List of Events 2024-2025":"",
+                    "List of Events 2023-2024":"",
+                    "List of Events 2022-2023":""
+                    },
                 "Newsletter and Magazines" :{
                     "Page":" https://panimalar.ac.in/mba.php ",
                     "Newsletter" :{
                         "Page":" https://panimalar.ac.in/mba.php ",
+                        "PECMBA 2024 - 1":"",
                         "PECMBA 2023 – 1 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/PECMBA-2023-1.pdf ",
                         "PECMBA 2023 – 2  " :" https://panimalar.ac.in/assets/pdf/mba-pdf/PECMBA-2023-2.pdf "
                         },
                     "Magazine" :{
                         "Page":" https://panimalar.ac.in/mba.php ",
+                        "Zephyrom 2024 - Issue 21":"",
                         "Zephyrom 2023 – Issue 20 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/Zephyrom-2023.pdf "
                         }
                     },
@@ -1280,9 +1293,24 @@
                             "Anna University Rank Holders 2015-22" :{
                                 "Page":"https://panimalar.ac.in/mba-achievements.php ",
                                 "Rank Holders List 2015 – 2022 " :"https://panimalar.ac.in/assets/pdf/mba-pdf/achievements/MBA-RANK-LIST-2023.pdf "
+                                },
+                            "Anna University Rank Holders (2023-24)":{
+                                "Page":"https://panimalar.ac.in/mba-achievements.php ",
+                                "Rank Holders List 2023 – 2024 " :" "
                                 }
                             }   
-                        }
+                        },
+                    "Faculty Achievements":"",
+                    "Student Achievements":{
+                        "Semester-wise Student Toppers":"",
+                        "Nov-December 2023 & April-May 2024 Toppers":"",
+                        "Student Publications":"",
+                        "List of Student Publication [2023-2024]":"",
+                        "Student Paper Presentation at Conference":"",
+                        "Student Participation in Symposiums/Seminars":"",
+                        "Student Placements":"",
+                        "Sports Activities":""
+                        } 
                     },
                 "Internship Program " :{
                     "Page":"https://panimalar.ac.in/mba-internship.php ",
@@ -1290,28 +1318,52 @@
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
                         "Internship Brochure " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-Brochure.pdf "
                         },
+                    "Industrial Visit":"",
                     "Student Internship " :{
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
                         "2020-2021 ":" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2020-2021.pdf ",
                         "2021-2022 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2021-2022.pdf ",
-                        "2022-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2022-2023.pdf "
+                        "2022-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/Internship-2022-2023.pdf ",
+                        "2023-2024":""
                         },
                     "Students Project List" :{
                         "Page":"https://panimalar.ac.in/mba-internship.php ",
-                        "5014-2016 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1416.pdf ",
+                        "2014-2016 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1416.pdf ",
                         "2015-2017 ":"  https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1517.pdf ",
                         "2016-2018 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1618.pdf ",
                         "2017-2019 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/int1719.pdf ",
                         "2018-2020 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl18.pdf ",
                         "2019-2021 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl19.pdf ",
                         "2020-2022 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl20.pdf ",
-                        "2021-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl21.pdf "
+                        "2021-2023 " :" https://panimalar.ac.in/assets/pdf/mba-pdf/internship/spl21.pdf ",
+                        "2022-2024":""
                         }
                     },
                 "Industrials Visits " :{
                     "Page":" https://panimalar.ac.in/mba-industrial-visit.php ",
                     "Industrial Visits" :" https://panimalar.ac.in/mba-industrial-visit.php ",
                     "Industrial Internship-2014-2015" :" https://panimalar.ac.in/mba-industrial-visit.php "
+                    },
+                "Research":{
+                    "Journal Publications":{
+                        "Journal Publications 2024-2025":"",
+                        "Journal Publications 2023-2024":"",
+                        "Journal Publications 2022-2023":"",
+                        "Journal Publications 2021-2022":"",
+                        "Journal Publications 2020-2021":""
+                        },
+                    "Conference Publication":{
+                        "Conference Publication 2024 - 2025":"",
+                        "Conference Publication 2023 - 2024":"",
+                        "Conference Publication 2022 - 2023":"",
+                        "Conference Publication 2021 - 2022":"",
+                        "Conference Publication 2020 - 2021":""
+                        },
+                    "Patents":{
+                        "2024-2025":"",
+                        "2023-2024":"",
+                        "2021-2022":""
+                        }   
                     },
                 "Laboratory " :{
                     "Page":" https://panimalar.ac.in/mba-laboratory.php ",
@@ -1339,33 +1391,13 @@
                     "Page":"https://panimalar.ac.in/humanities-and-science.php ",
                     "About the Department" :"https://panimalar.ac.in/humanities-and-science.php "
                     },
-                "Question Bank":{
-                    "Page":"https://panimalar.ac.in/humanities-and-science.php ",
-                    "Python Programming 21ES1201": " https://sites.google.com/view/23es1201/home ",
-                    "Environmental Science 23MC1201" :" https://sites.google.com/view/evsee/home ",
-                    "Communicative and Aptitude Skills 21HS1201" :" https://sites.google.com/view/23hs1201/home ",
-                    "Business Communication and Value Science – II 23HS1202": " https://sites.google.com/view/23hs1202/home ",
-                    "Fundamental of Economics 23CB1202" :" https://sites.google.com/view/23cb1202/home ",
-                    "Complex Variables and Laplace Transform 23MA1201": " https://sites.google.com/view/23ma1201/home ",
-                    "Transforms and Vector Calculus 23MA1203" :" https://sites.google.com/view/23ma1203/home ",
-                    "Complex Variables and Numerical Methods 23MA1202": " https://sites.google.com/view/23ma1202/home ",
-                    "Linear Algebra 23MA1204" :" https://sites.google.com/view/23ma1204/home ",
-                    "Statistical Methods and Modeling 23MA1205" :" https://sites.google.com/view/23ma1205/home ",
-                    "Web Application Development 23CS1201" :" https://sites.google.com/view/23cs1201/home ",
-                    "Digital Logic and Computer Organization 23IT1201" :" https://sites.google.com/view/23it1201/home ",
-                    "Data Structures and Algorithms 23AD1201" :" https://sites.google.com/view/23ad1201/home ",
-                    "Electronic Devices 23EC1201" :" https://sites.google.com/view/23ec1201/home ",
-                    "Basic Civil and Mechanical Engineering 21ES1202" :" https://sites.google.com/view/23es1202/home ",
-                    "Engineering Mechanics 23ME1201": " https://sites.google.com/view/23me1201/home ",
-                    "Data Structures and Algorithms 23CB1201" :" https://sites.google.com/view/23cb1201/home ",
-                    "Engineering Graphics 23ES1103" :" https://sites.google.com/view/23es1103/home ",
-                    "Basic Electrical and Electronics Engineering 23ES1102": " https://sites.google.com/view/23es1102/home ",
-                    "Basic Electrical and Circuits and Engineering 23ES1204": " https://sites.google.com/view/23es1204/home ",
-                    "Electric Circuit Analysis 23EE1201" :" https://sites.google.com/view/23ee1201/home ",
-                    "Basic Electrical Engineering 23ES1205" :" https://sites.google.com/view/23es1205/home ",
-                    "Principles of Electronics 23EE1204" :" https://sites.google.com/view/23ee1204/home ",
-                    "Tamils and Technology 23TA1201" :" https://sites.google.com/view/23ta1201/home "
-                    }
+                "Vision and Mission":"",
+                "Dean Profile":"",
+                "Faculty List":"",
+                "Programme Educational Objective":"",
+                "Laboratory Infrastricture":"",
+                "Club":"",
+                "Question Bank":"https://sites.google.com/view/23hs1103/home"
             }
         },
     "Academics":{
