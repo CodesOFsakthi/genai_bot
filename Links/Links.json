@@ -1049,16 +1049,31 @@
                 "About the Department":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "Vision and Mission":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "PEO, PO’S, PSO’S":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
-                "HOD Profile":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                "HOD Profile":{
+                    "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                    "Scopus":"",
+                    "Google Scholor":""
+                    },
                 "Faculty List":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "Milestones":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                 "Professional Society":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
-                "Clubs":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
-                "Events":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                "Clubs":{
+                    "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                    "Artificial Inteligence Club":"",
+                    "Data Science Club":"",
+                    "Augumented Reality and Virtual Reality Club":""
+                    },
+                "Events":{
+                    "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                    "Academic Year : 2024-2025":"",
+                    "Academic Year : 2023-2024":""
+                    },
+                "Pearson":"",
                 "Newsletter and Magazines":{
                     "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                     "Newsletter":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
+                        "Newsletter 2024-2025 Issue 1":"",
                         "Newsletter 2023 – 2024 Issue 2 " :"https://panimalar.ac.in/assets/pdf/it/it-guest-lecture.pdf ",
                         "Newsletter 2023 – 2024 Issue 1 ":" https://panimalar.ac.in/assets/pdf/it/it-guest-lecture.pdf "
                         },
@@ -1079,6 +1094,14 @@
                         "Object Oriented Programming Paradigm 23AD1303" :"https://sites.google.com/panimalar.ac.in/oopp/home ",
                         "Database Management Systems 23CS1303" :"https://sites.google.com/view/dbms-notes2024/home "
                         },
+                    "II YR/ IV SEM":{
+                        "Machine Learning 23AD1401":"",
+                        "Basics of Data Science 23AD1402":"",
+                        "Software Development and Practices 23AD1403":"",
+                        "System Software and Operating Systems 23AD1404":"",
+                        "Tele health technology 21EC1011":"",
+                        "Probability and Statistical Techniques of Data Science":""
+                        },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Formal Language and Automata Theory 21AD1501" :"https://sites.google.com/panimalar.ac.in/kies/home ",
@@ -1088,6 +1111,15 @@
                         "Data Analytics 21AD1504" :"https://sites.google.com/view/21ad1504?usp=sharing ",
                         "Knowledge Engineering and Intelligent Systems 21AD1505" :"https://sites.google.com/d/1-M1eZ7Rb6nxwQc5p0Uqh08LyAthehdsX/p/1m3x1O4VF6nRg6zt1UxtHlnkeDF3-yqrv/edit "
                         },
+                    "III YR/ VI SEM":{
+                        "Deep Learning 23AD1601":"",
+                        "Digital Image Processing 23AD1603":"",
+                        "Augmented Reality, Virtual Reality with AI 21AD1602":"",
+                        "Natural Language Processing 23ML1604":"",
+                        "Data Warehousing and DATA Mining 21AD1911":"",
+                        "Systems Engineering 21ME1006":"",
+                        "Cloud Tools and Techniques 21CS1901":""
+                        },
                     "IV YR/ VII SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-data-science.php ",
                         "Business Analytics 21AD1701" :"https://sites.google.com/panimalar.ac.in/business-analtyics/home ",
@@ -1095,8 +1127,15 @@
                         "AI and Robotics Lab Integrated 21MG1701" :"https://sites.google.com/panimalar.ac.in/ai-robotics/home ",
                         " Software Testing and Automation 21IT1904" :"https://sites.google.com/view/software-testing-and-auto/home/question-bank ",
                         "Web & Social Media Analytics 21AD1909":" https://sites.google.com/panimalar.ac.in/web/home "
+                        },
+                    "IV YR/ VIII SEM":{
+                        "Ethics and AI 21AD1907":"",
+                        "Web and Social Media Analysis 21AD1909":"",
+                        "Health Care Analytics 21AD1913":""
+
                         }
                     },
+                "Department Library":"",
                 "Achievements " :   {
                     "Page":"https://panimalar.ac.in/aids-department-achievements.php ",
                     "Faculty Achievements" :"https://panimalar.ac.in/aids-department-achievements.php ",
@@ -1108,11 +1147,16 @@
                         "Page":"https://panimalar.ac.in/aids-industry-collaboration.php ",
                         "Inplant Training & Internship" :{
                             "Page":"https://panimalar.ac.in/aids-industry-collaboration.php ",
+                            "2024 - 2025":"",
                             "2023 – 2024 " :"https://panimalar.ac.in/assets/pdf/aids/industry/Industry-interaction-23-24.pdf ",
                             "2022 – 2023 " :"https://panimalar.ac.in/assets/pdf/aids/industry/Industry-Interaction-22-23.pdf "
                             }
                         },
-                    "Industrial Visit" :"https://panimalar.ac.in/aids-industry-collaboration.php ",
+                    "Industrial Visit" :{
+                        "Page":"https://panimalar.ac.in/aids-industry-collaboration.php ",
+                        "Industrial Visit 2024-2025":"",
+                        "Industrial Visit 2023-2024":""
+                        },
                     "MoU" :"https://panimalar.ac.in/aids-industry-collaboration.php "
                     },
                 "Research " :{
@@ -1187,6 +1231,7 @@
                         "Inteligent Multi Agent and Expert systems 21ML1902":""
                         }
                     },
+                "Department Library":"",  
                 "Achievements":{
                     "Page":"",
                     "Students Achievements":""
@@ -1199,8 +1244,28 @@
                     },
                 "Research " :{
                     "Page":"https://panimalar.ac.in/aiml-research-and-development.php ",
-                    "Journal Publications" :"https://panimalar.ac.in/aiml-research-and-development.php ",
-                    "Patents" :"https://panimalar.ac.in/aiml-research-and-development.php "
+                    "Journal Publications" :{
+                        "Page":"https://panimalar.ac.in/aiml-research-and-development.php ",
+                        "2023-2024":"",
+                        "2022-2023":"",
+                        "2021-2022":""
+                        },
+                    "Conference Publication":{
+                        "Page":"",
+                        "2023-2024":"",
+                        "2022-2023":""
+                        },
+                    "Patents" :{
+                        "Page":"https://panimalar.ac.in/aiml-research-and-development.php ",
+                        "2023-2024":"",
+                        "2022-2023":""
+                        },
+                    "Books":{
+                       "Page":"https://panimalar.ac.in/aiml-research-and-development.php ",
+                        "2023-2024":"",
+                        "2022-2023":"" ,
+                        "2021-2022":""
+                        }
                     },
                 "Facilities " :{
                     "Page":"https://panimalar.ac.in/aiml-laboratory.php ",
