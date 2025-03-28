@@ -1136,9 +1136,21 @@
                 "HOD Profile":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                 "Faculty List":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                 "Milestones":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
-                "Professional Society":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
-                "Clubs":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
+                "Professional Society":{
+                    "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
+                    "Professional Society 2024-2025":"",
+                    "Professional Society 2023-2024":""
+                    },
+                "Clubs":{
+                    "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
+                    "Club Activities 2024-2025":"",
+                    "Club Activities 2023-2024":""
+                    },
                 "Events":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
+                "Newsletters and Magazine":{
+                    "Newsletter":"",
+                    "Magazine":""
+                    },
                 "Question Bank":{
                     "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                     "II YR/ III SEM":{
@@ -1149,6 +1161,14 @@
                         "Digital Principles and Computer Architecture 23CS1301": " https://sites.google.com/view/23cs1301-dpca/home ",
                         "Database Management Systems 23CS1303" :" https://sites.google.com/view/ii-aiml-dbms/home "
                         },
+                    "II YR/IV SEM":{
+                        "Probabilitics Methods and Optimization techniques in Machine Learning 23MA1406":"",
+                        "Computer Networks 23CS1401":"",
+                        "Operation Systems 23IT1403":"",
+                        "Machine Learning 23AD1401":"",
+                        "Introduction to Innovation and Entrepreneurship 23CB1402":"",
+                        "Software Development and Practices 23AD1403":""
+                        },
                     "III YR/ V SEM":{
                         "Page":" https://panimalar.ac.in/btech-artificial-intelligence-machine-learning.php ",
                         "Data Exploration and Visualization 21AD1503": " https://sites.google.com/view/iii-v-sem-dev/home ",
@@ -1157,7 +1177,19 @@
                         "Machine Intelligence for Network Science 21ML1501": " https://sites.google.com/view/aiml-iii-v-sem21ml1501-mins/home ",
                         "Open Elective – I Air Pollution and Control Engineering 21AD1504": " https://sites.google.com/view/aiml-iiiv-sem-21ce1010-apec/home ",
                         "Multimedia and Animation Professional Elective – I21CS1909" :" https://sites.google.com/view/aiml-iii--multimedia-animation/home "
+                        },
+                    "III YR/VI SEM":{
+                        "Deep Learning 21AD1601":"",
+                        "Natural Learning Processing 21ML1601":"",
+                        "Digital Image Processing 21AD1603":"",
+                        "Swarm Inteligence 21ML1602":"",
+                        "Waste Water Treatement Open elective 21CY1003":"",
+                        "Inteligent Multi Agent and Expert systems 21ML1902":""
                         }
+                    },
+                "Achievements":{
+                    "Page":"",
+                    "Students Achievements":""
                     },
                 "Industry Collaboration " :{
                     "Page":"https://panimalar.ac.in/aiml-industry-collaboration.php ",
