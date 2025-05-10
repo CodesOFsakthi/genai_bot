@@ -35,11 +35,7 @@
         width: 350px;
         max-width: 90%;
         height: 500px;
-        background: linear-gradient(45deg,#0d0d0d,
-  #333333,
-  #4f4f4f,
-  #737373
-        );
+        background: linear-gradient(45deg, #0d0d0d, #333333, #4f4f4f, #737373);
         background-size: 300% 300%;
         color: #222325;
         border: 1px solid #cbd5e1;
@@ -50,23 +46,19 @@
         overflow: hidden;
         z-index: 1000;
         transition: all 0.3s ease-in-out;
-        
-
       }
 
-      @keyframes color{
-        0%{
+      @keyframes color {
+        0% {
           background-position: 0 50%;
         }
-        50%{
+        50% {
           background-position: 100% 50%;
         }
-        100%{
+        100% {
           background-position: 0 50%;
         }
       }
-      
-
 
       @media (max-width: 768px) {
         #chat-container {
@@ -83,7 +75,6 @@
         animation: color 12s ease-in-out infinite;
       }
 
-
       #chat-box {
         flex-grow: 1;
         border: 1px solid rgba(50, 220, 200, 0.8);
@@ -92,18 +83,16 @@
         padding: 1rem;
         color: #f8fafc;
         overflow-y: auto;
-        max-height: 400px; /* Set a max height for the box */
+        max-height: 400px;
         margin-bottom: 10px;
         display: none;
         flex-direction: column;
         z-index: 0;
       }
       #chat-box.visible {
-       display: flex;
-       flex-direction: column;
+        display: flex;
+        flex-direction: column;
       }
-
-      
 
       /* Style for chat messages */
       .chat-message {
@@ -127,11 +116,10 @@
         max-width: 80%;
         word-wrap: break-word;
         display: inline-block;
-        
       }
 
       .user-message {
-        background-color: rgba(105, 239, 224, 0.8);;
+        background-color: rgba(105, 239, 224, 0.8);
         color: #000;
         align-self: flex-end;
         margin-bottom: 10px;
@@ -143,16 +131,14 @@
         align-items: center;
         gap: 10px;
         opacity: 0;
-        transition: opacity 0.8s ease-in-out; /* Add transition effect */
+        transition: opacity 0.8s ease-in-out;
       }
       #input-container.visible {
         opacity: 1;
       }
-
-      #input-container input{
-        flex:1;
+      #input-container input {
+        flex: 1;
       }
-      
 
       #user-input {
         flex-grow: 1;
@@ -167,13 +153,14 @@
         box-shadow: 0 0 15px rgba(50, 220, 200, 0.8), inset 0 0 10px rgba(50, 220, 200, 0.6);
       }
 
-      #user-input:focus{
+      #user-input:focus {
         background-color: #464343;
         box-shadow: 0 0 15px rgba(50, 220, 200, 0.6);
         border-color: aquamarine;
         outline: none;
         color: #ffffff;
       }
+
       /* Send & Voice Module Icons */
       .icon {
         height: 40px;
@@ -224,29 +211,28 @@
         padding: 1rem;
         opacity: 1;
         transition: opacity 1s ease-in-out;
-        position: absolute; /* Changed to absolute */
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 1;
+        position: relative;
+        overflow: hidden;
       }
 
       .intro-screen.hidden {
         opacity: 0;
         pointer-events: none;
+      }
+
+      .intro-screen.visible {
+        opacity: 1;
         transition: opacity 1s ease-in-out;
-        display: none;
       }
 
       .toggle-btn {
         position: fixed;
-        bottom: 20px; /* Position at the bottom right corner */
+        bottom: 20px;
         right: 20px;
         cursor: pointer;
-        z-index: 1001; /* Ensure it stays above other elements */
+        z-index: 1001;
         background-color: #cbd5e1;
-        border-radius: 9999px; /* Fully rounded */
+        border-radius: 9999px;
         padding: 1rem;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
@@ -269,28 +255,6 @@
         }
       }
 
-      .intro-screen {
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        padding: 1rem;
-        opacity: 1;
-        transition: opacity 1s ease-in-out;
-        position: relative;
-        overflow: hidden;
-    }
-
-    .intro-screen.hidden {
-      opacity: 0;
-      pointer-events: none;
-    }
-    .intro-screen.visible {
-        opacity: 1;
-        transition: opacity 1s ease-in-out;
-      }
-
       .custom-gradient {
         background: linear-gradient(
           180deg,
@@ -300,15 +264,13 @@
         );
       }
 
-      
+      .intro-message {
+        color: #ffffff;
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+      }
 
-    .intro-message {
-      color: #ffffff;
-      font-size: 1.2rem;
-      margin-bottom: 10px;
-    }
-
-    @keyframes bubble {
+      @keyframes bubble {
         0% {
           transform: translateY(0) scale(1);
           opacity: 0.8;
@@ -319,23 +281,21 @@
         }
       }
 
-      /* Dynamic bubble styles */
       .bubble {
         position: absolute;
         bottom: -50px;
         background-color: rgba(219, 241, 240, 0.6);
         border-radius: 50%;
-        animation: bubble 3s infinite forwards; /* Changed to 3s for faster flow */
-        pointer-events: none; /* Prevent bubbles from blocking interactions */
+        animation: bubble 3s infinite forwards;
+        pointer-events: none;
       }
 
-      /* Make bubbles of different sizes and positions */
       .bubble:nth-child(1) {
         width: 15px;
         height: 15px;
         left: 10%;
         animation-delay: 0.1s;
-        animation-duration: 2.5s; /* Reduced duration for faster animation */
+        animation-duration: 2.5s;
       }
 
       .bubble:nth-child(2) {
@@ -343,7 +303,7 @@
         height: 25px;
         left: 30%;
         animation-delay: 0.2s;
-        animation-duration: 3s; /* Reduced to 3s */
+        animation-duration: 3s;
       }
 
       .bubble:nth-child(3) {
@@ -351,7 +311,7 @@
         height: 10px;
         left: 50%;
         animation-delay: 0.1s;
-        animation-duration: 3.5s; /* Reduced to 3.5s */
+        animation-duration: 3.5s;
       }
 
       .bubble:nth-child(4) {
@@ -359,7 +319,7 @@
         height: 30px;
         left: 70%;
         animation-delay: 0.3s;
-        animation-duration: 2.8s; /* Reduced for faster flow */
+        animation-duration: 2.8s;
       }
 
       .bubble:nth-child(5) {
@@ -367,16 +327,15 @@
         height: 20px;
         left: 90%;
         animation-delay: 0.2s;
-        animation-duration: 2.5s; /* Reduced to 2.5s */
+        animation-duration: 2.5s;
       }
 
-      /* Additional bubbles */
       .bubble:nth-child(6) {
         width: 18px;
         height: 18px;
         left: 15%;
         animation-delay: 0.6s;
-        animation-duration: 3s; /* Reduced to 3s */
+        animation-duration: 3s;
       }
 
       .bubble:nth-child(7) {
@@ -384,7 +343,7 @@
         height: 12px;
         left: 35%;
         animation-delay: 0.4s;
-        animation-duration: 2.7s; /* Reduced to 2.7s */
+        animation-duration: 2.7s;
       }
 
       .bubble:nth-child(8) {
@@ -392,7 +351,7 @@
         height: 22px;
         left: 55%;
         animation-delay: 0.6s;
-        animation-duration: 3s; /* Reduced to 3s */
+        animation-duration: 3s;
       }
 
       .bubble:nth-child(9) {
@@ -400,7 +359,7 @@
         height: 28px;
         left: 75%;
         animation-delay: 0.8s;
-        animation-duration: 2.5s; /* Reduced to 2.5s */
+        animation-duration: 2.5s;
       }
 
       .bubble:nth-child(10) {
@@ -408,25 +367,17 @@
         height: 14px;
         left: 95%;
         animation-delay: 1s;
-        animation-duration: 3.2s; /* Reduced to 3.2s */
+        animation-duration: 3.2s;
       }
-      
     </style>
   </head>
   <body>
     <!-- Toggle Button (Always visible) -->
-
     <div
       id="toggleButton"
       class="toggle-btn bg-slate-300 rounded-full p-4 shadow-lg hover:bg-slate-600 hover:text-slate-200 duration-300"
     >
-      <svg
-        viewBox="0 0 24 24"
-        fill="currentColor"
-        height="1.5em"
-        width="1.5em"
-        {...props}
-      >
+      <svg viewBox="0 0 24 24" fill="currentColor" height="1.5em" width="1.5em">
         <path
           d="M20 2H4c-1.103 0-2 .897-2 2v12c0 1.103.897 2 2 2h3v3.767L13.277 18H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14h-7.277L9 18.233V16H4V4h16v12z"
         />
@@ -441,20 +392,15 @@
           <!-- Rectangle background behind the robot image -->
           <div
             class="absolute top-0 custom-gradient left-1/2 transform -translate-x-1/2 w-[170px] h-[440px]"
-          > </div>
-
-          
-            <!-- Robot image -->
-            <img
-              src="../static/chatgpt-robot.png"
-              alt="Chatgpt robot"
-              class="relative z-10 h-[580px] w-[160px] pb-[350px] mt-[300px] pl-4"
-            />
-            
-          
+          ></div>
+          <!-- Robot image -->
+          <img
+            src="../static/chatgpt-robot.png"
+            alt="Chatgpt robot"
+            class="relative z-10 h-[580px] w-[160px] pb-[350px] mt-[300px] pl-4"
+          />
         </div>
-        
-        
+
         <div class="bubble"></div>
         <div class="bubble"></div>
         <div class="bubble"></div>
@@ -473,11 +419,11 @@
         <div class="box">
           <div class="glow"></div>
         </div>
-        <footer class="absolute bottom-0 left-0 w-full text-center py-4  text-gray-700">
+        <footer class="absolute bottom-0 left-0 w-full text-center py-4 text-gray-700">
           Made by AI&DS Girls
         </footer>
       </div>
-    
+
       <div id="chat-box" class="chat-box"></div>
       <!-- Chat box to display messages -->
       <div id="input-container">
@@ -489,7 +435,6 @@
           </svg>
         </button>
         <!-- Send button -->
-      
         <button id="mic-btn" class="icon glow">
           <svg viewBox="0 0 24 24" fill="currentColor">
             <path
@@ -498,15 +443,10 @@
           </svg>
         </button>
         <!-- Mic button -->
-        
       </div>
-      
     </div>
 
-
-  </body>
-
-  <script>
+    <script>
       // Get references to DOM elements
       const chatBox = document.getElementById("chat-box");
       const userInput = document.getElementById("user-input");
@@ -517,8 +457,7 @@
       const chatContainer = document.getElementById("chat-container");
       const introScreen = document.querySelector(".intro-screen");
       const inputContainer = document.getElementById("input-container");
-      chatContainer.classList.add('active');
-
+      chatContainer.classList.add("active");
 
       function toggleChat() {
         chatContainer.classList.toggle("active");
@@ -530,34 +469,44 @@
         } else {
           setTimeout(() => {
             introScreen.classList.add("hidden");
-            introScreen.classList.add("hidden");
             chatBox.classList.add("visible");
             inputContainer.classList.add("visible");
           }, 3000); // 3 seconds for the intro screen to fade out
         }
       }
 
-
       toggleButton.addEventListener("click", toggleChat);
 
       // Flag to track if it's the first interaction
-      
-      let isFirstInteraction =true;
+      let isFirstInteraction = true;
 
-
-      // Function to append messages to the chat box
-      function appendMessage(content, sender) {
+      // Modified function to append messages to the chat box.
+      // If isHTML is true, content will be inserted as HTML.
+      function appendMessage(content, sender, isHTML = false) {
         const messageDiv = document.createElement("div");
         messageDiv.classList.add(
           "chat-message",
           sender === "bot" ? "bot-message" : "user-message"
         );
-        messageDiv.textContent = content;
+        if (isHTML) {
+          messageDiv.innerHTML = content;
+        } else {
+          messageDiv.textContent = content;
+        }
         chatBox.appendChild(messageDiv);
         chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to the bottom
         setTimeout(() => {
           messageDiv.style.opacity = 1; // Smooth transition
-        }, 10); // Small delay for smooth fade-in effect
+        }, 10);
+      }
+
+      // New function to append clickable suggested keywords as a chat message.
+      function appendSuggestedKeywords(suggestedKeywords) {
+        let suggestionMessage = "<strong>Suggested Keywords:</strong><br/>";
+        for (const [keyword, link] of Object.entries(suggestedKeywords)) {
+          suggestionMessage += `<a href="${link}" target="_blank" class="suggested-keyword" style="display:inline-block; margin:5px 5px 0 0; background:rgb(40, 196, 186); color:white; padding:5px 10px; border-radius:5px; text-decoration:none;">${keyword}</a>`;
+        }
+        appendMessage(suggestionMessage, "bot", true);
       }
 
       // Function to send user input to the backend
@@ -569,50 +518,58 @@
 
           const customPrompt = "You are interacting with the Panimalar Bot.";
           const payload = {
-              message: customPrompt + " " + userMessage,
+            message: customPrompt + " " + userMessage,
           };
 
           // Send the message to the Flask backend via POST request
           fetch("/process", {
-              method: "POST",
-              headers: {
-                  "Content-Type": "application/json",
-              },
-              body: JSON.stringify(payload), // Send the message with custom context
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(payload), // Send the message with custom context
           })
-          .then((response) => response.json())
-          .then((data) => {
+            .then((response) => response.json())
+            .then((data) => {
               console.log("Received data:", data);
               if (data.reply) {
-                  appendMessage(data.reply, "bot"); // Display the bot's reply
-                  setTimeout(() => {
-                      speakText(data.reply); // Trigger voice reply after a short delay
-                  }, 500);
+                appendMessage(data.reply, "bot"); // Display the bot's reply
+                setTimeout(() => {
+                  speakText(data.reply); // Trigger voice reply after a short delay
+                }, 500);
+
+                // Append suggested keywords as part of the chat if available
+                if (
+                  data.suggested_keywords &&
+                  Object.keys(data.suggested_keywords).length > 0
+                ) {
+                  appendSuggestedKeywords(data.suggested_keywords);
+                }
 
                 // Check if there's a PDF URL to open
-                  if (data.pdf_url) {
-                    // Attempt to open the URL in a new tab after the bot's reply
-                      setTimeout(() => {
-                          window.open(data.pdf_url, "_blank");
-                      }, 1000); // Delay for better UX
-                  }
+                if (data.pdf_url) {
+                  // Attempt to open the URL in a new tab after the bot's reply
+                  setTimeout(() => {
+                    window.open(data.pdf_url, "_blank");
+                  }, 1000);
+                }
               } else {
-                  console.error("Invalid PDF URL:", data.pdf_url);
+                console.error("Invalid PDF URL:", data.pdf_url);
               }
-          })
-          .catch((error) => {
+            })
+            .catch((error) => {
               appendMessage("Sorry, something went wrong!", "bot");
               console.error("Error during fetch:", error);
-          });
-        } 
+            });
+        }
       }
-      
 
       // Function to speak the bot's response
       function speakText(text) {
         // Clear any ongoing speech synthesis
         if (window.speechSynthesis.speaking) {
-          console.log("Speech synthesis already running. Cancelling it.");window.speechSynthesis.cancel();
+          console.log("Speech synthesis already running. Cancelling it.");
+          window.speechSynthesis.cancel();
         }
 
         const speech = new SpeechSynthesisUtterance(text);
@@ -649,23 +606,21 @@
       // Voice input handling
       micBtn.addEventListener("click", function () {
         // Start the listening effect
-        micBtn.classList.add("mic-listening"); // Add the class to start the effect
+        micBtn.classList.add("mic-listening");
 
         // Show "Listening..." placeholder after a delay
         setTimeout(() => {
           appendMessage("Listening...", "user");
-        }, 2500); // Shorter delay for better user experience
+        }, 2500);
 
         fetch("/voice_input")
           .then((response) => response.json())
           .then((data) => {
             // Stop the listening effect
-            micBtn.classList.remove("mic-listening"); // Remove the class to stop the effect
+            micBtn.classList.remove("mic-listening");
 
             // Clear "Listening..." placeholder
-            const listeningMessage = document.querySelector(
-              ".user-message:last-child"
-            );
+            const listeningMessage = document.querySelector(".user-message:last-child");
             if (listeningMessage) {
               listeningMessage.remove();
             }
@@ -674,33 +629,38 @@
               data.user_input &&
               data.user_input !== "Sorry, I didn't catch that."
             ) {
-              appendMessage(data.user_input, "user"); // Display recognized text immediately
+              appendMessage(data.user_input, "user");
             } else {
-              appendMessage("Sorry, I didn't catch that.", "bot"); // Handle cases where recognition fails
+              appendMessage("Sorry, I didn't catch that.", "bot");
             }
 
-            // Now trigger bot reply and voice response
+            // Trigger bot reply and voice response after a delay
             setTimeout(() => {
               if (data.reply) {
-                appendMessage(data.reply, "bot"); // Display bot's reply
-                speakText(data.reply); // Trigger voice reply
+                appendMessage(data.reply, "bot");
+                speakText(data.reply);
+
+                // Append suggested keywords if available
+                if (
+                  data.suggested_keywords &&
+                  Object.keys(data.suggested_keywords).length > 0
+                ) {
+                  appendSuggestedKeywords(data.suggested_keywords);
+                }
               }
-              if(data.pdf_url){
+              if (data.pdf_url) {
                 window.open(data.pdf_url, "_blank");
               }
-            }, 500); // Optional delay for smoother transition
+            }, 500);
           })
           .catch((error) => {
-            micBtn.classList.remove("mic-listening"); // Ensure class is removed in case of error
+            micBtn.classList.remove("mic-listening");
             appendMessage("Sorry, something went wrong!", "bot");
           });
       });
-      
 
       // Call the function to send the default message on page load
       window.onload = sendDefaultMessage;
-</script>
-
-
+    </script>
   </body>
 </html>
